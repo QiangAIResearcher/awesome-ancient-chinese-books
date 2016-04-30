@@ -19,14 +19,13 @@ A curated list of awesome ancient chinese books
 .. __: 子/天文算法/README.rst
 
 
-
 古籍
 ====
 
 ==== ==== ==== ==== ==== ====================================================
 内容格式       访问限制  网址
 -------------- --------- ----------------------------------------------------
-简体 繁体 影印 注册 阅读 
+简体 繁体 影印 注册 阅读
 ==== ==== ==== ==== ==== ====================================================
 有   有   有   无   无   `中國哲學書電子化計劃`__
 有   无   无   无   无   `集美大学图书馆 四库全书 文字版`__
@@ -34,6 +33,9 @@ A curated list of awesome ancient chinese books
 无   有   无   无   无   `中央研究院 漢籍電子文獻`__
 无   无   有   无   无   `東京大学 東洋文化研究所 漢籍善本全文影像資料庫`__
 无   无   有   无   无   `古漢籍善本數位化資料庫國際合作建置計畫`__
+无   有   无   无   无   `Kanripo 漢籍リポジトリ`__
+无   无   有   无   无   `Universal Library, Million Books Project`__
+有   有   无   无   无   `维基文库`__
 ==== ==== ==== ==== ==== ====================================================
 
 .. __: http://ctext.org/zh
@@ -42,6 +44,9 @@ A curated list of awesome ancient chinese books
 .. __: http://hanji.sinica.edu.tw/
 .. __: http://shanben.ioc.u-tokyo.ac.jp/
 .. __: http://rarebookdl.ihp.sinica.edu.tw/index.html
+.. __: https://www.kanripo.org/
+.. __: https://archive.org/details/universallibrary
+.. __: https://zh.wikisource.org/
 
 
 工具
