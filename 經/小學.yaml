@@ -15,10 +15,16 @@
   維基: null
   資料: []
 - 題目: 釋名
-  朝代: null
-  作者: null
+  朝代: 漢
+  作者: 劉熙
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1j0007/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 廣雅
   朝代: null
   作者: null
@@ -66,20 +72,38 @@
   資料: []
 字書之屬:
 - 題目: 急就篇
-  朝代: null
-  作者: null
+  朝代: 漢
+  作者: 史游
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1j0017/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 說文解字
-  朝代: null
-  作者: null
+  朝代: 漢
+  作者: 許愼
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1j0018/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 說文繫傳
-  朝代: null
-  作者: null
+  朝代: 南唐
+  作者: 徐鍇
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1j0019/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 說文繫傳考異
   朝代: null
   作者: null
@@ -111,10 +135,16 @@
   維基: null
   資料: []
 - 題目: 汗簡
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 郭忠恕
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1j0026/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 佩觿
   朝代: null
   作者: null
@@ -136,15 +166,27 @@
   維基: null
   資料: []
 - 題目: 復古編
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 張有
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1j0031/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 班馬字類
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 婁機
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1j0032/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 漢隸字源
   朝代: null
   作者: null
@@ -161,10 +203,16 @@
   維基: null
   資料: []
 - 題目: 龍龕手鑑
-  朝代: null
-  作者: null
+  朝代: 遼
+  作者: 釋行均
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1j0036/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 六書統
   朝代: null
   作者: null
@@ -267,20 +315,32 @@
   維基: null
   資料: []
 - 題目: 切韻指掌圖
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 司馬光
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1j0058/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 韻補
   朝代: null
   作者: null
   維基: null
   資料: []
 - 題目: 附釋文互註禮部韻略
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 丁度
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1j0060/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 增修互注禮部韻略
   朝代: null
   作者: null

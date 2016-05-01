@@ -1,34 +1,70 @@
 null:
 - 題目: 握奇經
-  朝代: null
-  作者: null
+  朝代: 漢
+  作者: 公孫宏
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR3b0001/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 六韜
-  朝代: null
-  作者: null
+  朝代: 周
+  作者: 呂望
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR3b0002/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 孫子
-  朝代: null
-  作者: null
+  朝代: 周
+  作者: 孫武
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR3b0003/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 吳子
-  朝代: null
-  作者: null
+  朝代: 周
+  作者: 吳起
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR3b0004/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 司馬法
-  朝代: null
-  作者: null
+  朝代: 周
+  作者: 司馬穰苴
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR3b0005/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 尉繚子
-  朝代: null
-  作者: null
+  朝代: 周
+  作者: 尉繚
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR3b0006/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 黃石公三略
   朝代: null
   作者: null
@@ -40,60 +76,108 @@ null:
   維基: null
   資料: []
 - 題目: 黃石公素書
-  朝代: null
-  作者: null
+  朝代: 秦
+  作者: 黃石公
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR3b0009/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 李衛公問對
   朝代: null
   作者: null
   維基: null
   資料: []
 - 題目: 太白陰經
-  朝代: null
-  作者: null
+  朝代: 唐
+  作者: 李筌
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR3b0011/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 武經總要
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 曾公亮
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR3b0012/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 虎鈐經
   朝代: null
   作者: null
   維基: null
   資料: []
 - 題目: 何博士備論
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 何去非
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR3b0014/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 守城錄
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 陳規
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR3b0015/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 武編
-  朝代: null
-  作者: null
+  朝代: 明
+  作者: 唐順之
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR3b0016/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 陣紀
-  朝代: null
-  作者: null
+  朝代: 明
+  作者: 何良臣
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR3b0017/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 江南經略
   朝代: null
   作者: null
   維基: null
   資料: []
 - 題目: 紀效新書
-  朝代: null
-  作者: null
+  朝代: 明
+  作者: 戚繼光
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR3b0019/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 練兵實紀
   朝代: null
   作者: null

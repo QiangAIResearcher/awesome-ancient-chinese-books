@@ -1,44 +1,86 @@
 null:
 - 題目: 黃帝內經素問
-  朝代: null
-  作者: null
+  朝代: 唐
+  作者: 王冰
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR3e0001/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 靈樞經
-  朝代: null
-  作者: null
+  朝代: 唐
+  作者: 王冰
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR3e0002/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 難經本義
-  朝代: null
-  作者: null
+  朝代: 周
+  作者: 秦越人
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR3e0004/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 鍼灸甲乙經
-  朝代: null
-  作者: null
+  朝代: 晉
+  作者: 皇甫謐
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR3e0005/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 金匱要略論註
   朝代: null
   作者: null
   維基: null
   資料: []
 - 題目: 傷寒論注釋
-  朝代: null
-  作者: null
+  朝代: 漢
+  作者: 張機
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR3e0008/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 肘後備急方
-  朝代: null
-  作者: null
+  朝代: 晉
+  作者: 葛洪
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR3e0010/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 褚氏遺書
-  朝代: null
-  作者: null
+  朝代: 南齊
+  作者: 褚澄
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR3e0011/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 巢氏諸病源候論
   朝代: null
   作者: null
@@ -50,10 +92,16 @@ null:
   維基: null
   資料: []
 - 題目: 銀海精微
-  朝代: null
-  作者: null
+  朝代: 唐
+  作者: 孫思邈
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR3e0014/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 外臺祕要方
   朝代: null
   作者: null
@@ -65,65 +113,137 @@ null:
   維基: null
   資料: []
 - 題目: 銅人鍼灸經
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 闕名
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR3e0017/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 明堂灸經
   朝代: null
-  作者: null
+  作者: 西方子
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR3e0018/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 博濟方
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 王袞
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR3e0019/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 蘇沈良方
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 蘇軾
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR3e0020/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 壽親養老新書
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 陳直
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR3e0021/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 腳氣治法總要
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 董汲
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR3e0022/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 旅舍備要方
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 董汲
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR3e0023/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 素問入式運氣論奧
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 劉溫舒
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR3e0024/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 傷寒微旨論
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 韓祗和
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR3e0025/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 傷寒總病論
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 龐安時
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR3e0026/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 聖濟總錄纂要
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 徽宗
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR3e0027/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 證類本草
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 唐愼微
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR3e0028/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 全生指迷方
   朝代: null
   作者: null
@@ -135,40 +255,70 @@ null:
   維基: null
   資料: []
 - 題目: 類證普濟本事方
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 許叔微
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR3e0032/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 太平惠民和劑局方
   朝代: null
   作者: null
   維基: null
   資料: []
 - 題目: 傳信適用方
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 吳彥夔
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR3e0034/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 衛濟寶書
   朝代: null
   作者: null
   維基: null
   資料: []
 - 題目: 醫說
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 張杲
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR3e0036/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 鍼灸資生經
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 王執中
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR3e0037/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 婦人大全良方
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 陳自明
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR3e0038/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 太醫局程文
   朝代: null
   作者: null
@@ -180,20 +330,38 @@ null:
   維基: null
   資料: []
 - 題目: 三因極一病證方論
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 陳言
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR3e0041/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 集驗背疽方
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 李迅
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR3e0042/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 濟生方
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 嚴用和
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR3e0043/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 產寶諸方
   朝代: null
   作者: null
@@ -206,129 +374,243 @@ null:
   資料: []
 - 題目: 急救仙方
   朝代: null
-  作者: null
+  作者: 闕名
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR3e0046/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 素問玄機原病式
-  朝代: null
-  作者: null
+  朝代: 金
+  作者: 劉完素
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR3e0047/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 宣明方論
-  朝代: null
-  作者: null
+  朝代: 金
+  作者: 劉完素
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR3e0048/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 傷寒直格方
   朝代: null
   作者: null
   維基: null
   資料: []
 - 題目: 保命集
-  朝代: null
-  作者: null
+  朝代: 金
+  作者: 張元素
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR3e0050/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 儒門事親
-  朝代: null
-  作者: null
+  朝代: 金
+  作者: 張從正
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR3e0051/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 內外傷辨惑論
   朝代: null
   作者: null
   維基: null
   資料: []
 - 題目: 脾胃論
-  朝代: null
-  作者: null
+  朝代: 元
+  作者: 李杲
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR3e0053/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 蘭室秘藏
   朝代: null
   作者: null
   維基: null
   資料: []
 - 題目: 此事難知
-  朝代: null
-  作者: null
+  朝代: 元
+  作者: 王好古
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR3e0055/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 醫壘元戎
-  朝代: null
-  作者: null
+  朝代: 元
+  作者: 王好古
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR3e0056/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 湯液本草
   朝代: null
   作者: null
   維基: null
   資料: []
 - 題目: 瑞竹堂經驗方
-  朝代: null
-  作者: null
+  朝代: 元
+  作者: 沙圖穆蘇
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR3e0058/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 世醫得效方
-  朝代: null
-  作者: null
+  朝代: 元
+  作者: 危亦林
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR3e0059/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 格致餘論
-  朝代: null
-  作者: null
+  朝代: 元
+  作者: 朱震亨
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR3e0060/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 局方發揮
-  朝代: null
-  作者: null
+  朝代: 元
+  作者: 朱震亨
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR3e0061/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 金匱鉤玄
   朝代: null
   作者: null
   維基: null
   資料: []
 - 題目: 扁鵲神應鍼灸玉龍經
-  朝代: null
-  作者: null
+  朝代: 元
+  作者: 王國瑞
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR3e0063/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 外科精義
-  朝代: null
-  作者: null
+  朝代: 元
+  作者: 齊德之
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR3e0064/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 脈訣刊誤
   朝代: null
   作者: null
   維基: null
   資料: []
 - 題目: 醫經溯洄集
-  朝代: null
-  作者: null
+  朝代: 元
+  作者: 王履
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR3e0066/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 普濟方
-  朝代: null
-  作者: null
+  朝代: 明
+  作者: 朱橚
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR3e0067/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 玉機微義
-  朝代: null
-  作者: null
+  朝代: 明
+  作者: 徐用誠
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR3e0068/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 仁端錄
-  朝代: null
-  作者: null
+  朝代: 明
+  作者: 徐謙
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR3e0069/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 薛氏醫案
-  朝代: null
-  作者: null
+  朝代: 明
+  作者: 薛己
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR3e0070/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 推求師意
   朝代: null
   作者: null
@@ -345,35 +627,65 @@ null:
   維基: null
   資料: []
 - 題目: 石山醫案
-  朝代: null
-  作者: null
+  朝代: 明
+  作者: 陳桷
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR3e0074/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 名醫類案
-  朝代: null
-  作者: null
+  朝代: 明
+  作者: 江瓘
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR3e0075/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 赤水玄珠
   朝代: null
   作者: null
   維基: null
   資料: []
 - 題目: 醫旨緒餘
-  朝代: null
-  作者: null
+  朝代: 明
+  作者: 孫一奎
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR3e0077/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 證治準繩
-  朝代: null
-  作者: null
+  朝代: 明
+  作者: 王肯堂
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR3e0078/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 本草綱目
-  朝代: null
-  作者: null
+  朝代: 明
+  作者: 李時珍
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR3e0079/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 奇經八脈考
   朝代: null
   作者: null
@@ -390,92 +702,176 @@ null:
   維基: null
   資料: []
 - 題目: 先醒齋廣筆記
-  朝代: null
-  作者: null
+  朝代: 明
+  作者: 繆希雍
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR3e0083/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 神農本草經疏
-  朝代: null
-  作者: null
+  朝代: 明
+  作者: 繆希雍
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR3e0084/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 類經
   朝代: null
   作者: null
   維基: null
   資料: []
 - 題目: 景岳全書
-  朝代: null
-  作者: null
+  朝代: 明
+  作者: 張介賓
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR3e0086/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 瘟疫論
-  朝代: null
-  作者: null
+  朝代: 明
+  作者: 吳有性
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR3e0087/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 痎瘧論疏
-  朝代: null
-  作者: null
+  朝代: 明
+  作者: 廬之頤
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR3e0088/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 本草乘雅半偈
-  朝代: null
-  作者: null
+  朝代: 明
+  作者: 廬之頤
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR3e0089/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 御纂醫宗金鑑
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 吳謙
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR3e0090/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 尚論篇
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 喻昌
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR3e0091/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 醫門法律
   朝代: null
   作者: null
   維基: null
   資料: []
 - 題目: 傷寒舌鑑
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 張登
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR3e0093/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 傷寒兼證析義
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 張倬
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR3e0094/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 絳雪園古方選注
   朝代: null
   作者: null
   維基: null
   資料: []
 - 題目: 續名醫類案
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 魏之琇
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR3e0096/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 蘭臺軌範
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 徐大椿
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR3e0097/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 神農本草經百種錄
   朝代: null
   作者: null
   維基: null
   資料: []
 - 題目: 傷寒類方
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 徐大椿
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR3e0099/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 醫學源流論
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 徐大椿
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR3e0100/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false

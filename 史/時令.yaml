@@ -1,11 +1,23 @@
 null:
 - 題目: 歲時廣記
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 陳元靚
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR2j0001/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 御定月令輯要
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 李光地
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR2j0002/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false

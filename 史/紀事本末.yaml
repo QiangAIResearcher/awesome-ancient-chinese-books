@@ -1,54 +1,108 @@
 null:
 - 題目: 通鑑紀事本末
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 袁樞
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR2c0001/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 春秋左氏傳事類始末
   朝代: null
   作者: null
   維基: null
   資料: []
 - 題目: 三朝北盟會編
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 徐夢莘
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR2c0004/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 蜀鑑
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 郭允蹈
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR2c0005/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 炎徼紀聞
-  朝代: null
-  作者: null
+  朝代: 明
+  作者: 田汝成
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR2c0006/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 宋史紀事本末
-  朝代: null
-  作者: null
+  朝代: 明
+  作者: 馮琦原
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR2c0007/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 元史紀事本末
-  朝代: null
-  作者: null
+  朝代: 明
+  作者: 陳邦瞻
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR2c0008/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 平定三逆方略
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 勒德洪
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR2c0009/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 聖祖仁皇帝親征平定朔漠方略
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 溫達
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR2c0010/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 欽定平定金川方略
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 來保
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR2c0011/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 平定準噶爾方略前編
   朝代: null
   作者: null
@@ -75,45 +129,87 @@ null:
   維基: null
   資料: []
 - 題目: 欽定蘭州紀略
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 阿桂
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR2c0015/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 欽定石峰堡紀略
   朝代: null
   作者: null
   維基: null
   資料: []
 - 題目: 欽定平定臺灣紀略
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 高宗弘曆
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR2c0017/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 綏寇紀略
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 吳偉業
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR2c0018/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 滇考
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 馮甦
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR2c0019/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 明史紀事本末
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 谷應泰
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR2c0020/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 繹史
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 馬驌
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR2c0021/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 左傳紀事本末
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 高士奇
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR2c0022/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 平臺紀略
   朝代: null
   作者: null

@@ -1,321 +1,669 @@
 null:
 - 題目: 文心雕龍
-  朝代: null
-  作者: null
+  朝代: 梁
+  作者: 劉勰
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR4i0001/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 文心雕龍輯注
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 黃叔琳
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR4i0002/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 詩品
-  朝代: null
-  作者: null
+  朝代: 梁
+  作者: 鍾嶸
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR4i0003/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 文章緣起
-  朝代: null
-  作者: null
+  朝代: 梁
+  作者: 任昉
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR4i0004/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 本事詩
-  朝代: null
-  作者: null
+  朝代: 唐
+  作者: 孟棨
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR4i0005/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 六一詩話
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 歐陽修
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR4i0006/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 續詩話
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 司馬光
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR4i0007/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 中山詩話
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 劉攽
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR4i0008/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 後山詩話
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 陳師道
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR4i0009/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 臨漢隱居詩話
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 魏泰
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR4i0010/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 優古堂詩話
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 吳幵
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR4i0011/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 詩話總龜
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 阮閱
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR4i0012/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 詩話總龜後集
   朝代: null
   作者: null
   維基: null
   資料: []
 - 題目: 彥周詩話
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 許顗
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR4i0014/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 紫薇詩話
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 呂本中
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR4i0015/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 四六話
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 王銍
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR4i0016/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 珊瑚鉤詩話
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 張表臣
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR4i0017/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 石林詩話
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 葉夢得
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR4i0018/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 藏海詩話
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 吳可
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR4i0019/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 風月堂詩話
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 朱弁
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR4i0020/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 歲寒堂詩話
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 張戒
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR4i0021/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 庚溪詩話
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 陳巖肖
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR4i0022/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 韻語陽秋
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 葛立方
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR4i0023/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 䂬溪詩話
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 黃徹
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR4i0024/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 唐詩紀事
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 計有功
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR4i0025/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 觀林詩話
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 吳聿
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR4i0026/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 四六談麈
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 謝伋
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR4i0027/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 環溪詩話
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 闕名
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR4i0028/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 漁隱叢話
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 胡仔
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR4i0029/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 竹坡詩話
   朝代: null
   作者: null
   維基: null
   資料: []
 - 題目: 文則
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 陳騤
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR4i0031/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 二老堂詩話
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 周必大
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR4i0032/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 誠齋詩話
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 楊萬里
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR4i0033/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 餘師錄
   朝代: null
   作者: null
   維基: null
   資料: []
 - 題目: 滄浪詩話
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 嚴羽
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR4i0035/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 詩人玉屑
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 魏慶之
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR4i0036/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 後村詩話
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 劉克莊
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR4i0037/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 娛書堂詩話
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 趙與虤
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR4i0038/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 荊溪林下偶談
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 吳子良
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR4i0039/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 草堂詩話
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 蔡夢弼
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR4i0040/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 竹莊詩話
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 何谿汶
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR4i0041/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 文章精義
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 李耆卿
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR4i0042/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 浩然齋雅談
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 周密
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR4i0043/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 對床夜語
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 范晞文
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR4i0044/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 詩林廣記
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 蔡正孫
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR4i0045/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 文說
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 陳繹曾
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR4i0046/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 修辭鑑衡
-  朝代: null
-  作者: null
+  朝代: 元
+  作者: 王構
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR4i0047/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 金石例
-  朝代: null
-  作者: null
+  朝代: 元
+  作者: 潘昴霄
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR4i0048/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 作義要訣
-  朝代: null
-  作者: null
+  朝代: 元
+  作者: 倪士毅
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR4i0049/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 墓銘舉例
-  朝代: null
-  作者: null
+  朝代: 明
+  作者: 王行
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR4i0050/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 懷麓堂詩話
-  朝代: null
-  作者: null
+  朝代: 明
+  作者: 李東陽
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR4i0051/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 頤山詩話
   朝代: null
   作者: null
   維基: null
   資料: []
 - 題目: 詩話補遺
-  朝代: null
-  作者: null
+  朝代: 明
+  作者: 楊愼
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR4i0053/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 藝圃擷餘
   朝代: null
   作者: null
   維基: null
   資料: []
 - 題目: 唐音癸籤
-  朝代: null
-  作者: null
+  朝代: 明
+  作者: 胡震亨
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR4i0055/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 歷代詩話
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 吳景旭
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR4i0056/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 金石要例
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 黃宗羲
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR4i0057/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 漁洋詩話
   朝代: null
   作者: null
   維基: null
   資料: []
 - 題目: 師友詩傳錄
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 郎廷槐
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR4i0059/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 聲調譜
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 趙執信
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR4i0060/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 談龍錄
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 趙執信
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR4i0061/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 宋詩紀事
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 厲鶚
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR4i0062/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 全閩詩話
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 鄭方坤
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR4i0063/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 五代詩話
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 鄭方坤
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR4i0064/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false

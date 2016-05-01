@@ -40,10 +40,16 @@ null:
   維基: null
   資料: []
 - 題目: 孟子傳
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 張九成
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1h0013/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 尊孟辨
   朝代: null
   作者: null
@@ -155,10 +161,16 @@ null:
   維基: null
   資料: []
 - 題目: 讀四書叢說
-  朝代: null
-  作者: null
+  朝代: 元
+  作者: 許謙
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1h0033/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 四書通
   朝代: null
   作者: null

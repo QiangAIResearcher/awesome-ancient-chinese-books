@@ -1,51 +1,99 @@
 null:
 - 題目: 齊民要術
-  朝代: null
-  作者: null
+  朝代: 後魏
+  作者: 賈思勰
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR3d0001/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 農書
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 陳旉
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR3d0002/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 農桑輯要
-  朝代: null
-  作者: null
+  朝代: 元
+  作者: 司農司
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR3d0003/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 農桑衣食撮要
-  朝代: null
-  作者: null
+  朝代: 元
+  作者: 魯明善
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR3d0004/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 王氏農書
   朝代: null
   作者: null
   維基: null
   資料: []
 - 題目: 救荒本草
-  朝代: null
-  作者: null
+  朝代: 明
+  作者: 朱橚
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR3d0006/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 農政全書
-  朝代: null
-  作者: null
+  朝代: 明
+  作者: 徐光啟
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR3d0007/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 泰西水法
   朝代: null
   作者: null
   維基: null
   資料: []
 - 題目: 野菜博錄
-  朝代: null
-  作者: null
+  朝代: 明
+  作者: 鮑山
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR3d0009/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 欽定授時通考
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 鄂爾泰
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR3d0010/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false

@@ -1,66 +1,144 @@
 null:
 - 題目: 弘明集
-  朝代: null
-  作者: null
+  朝代: 梁
+  作者: 僧祐
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR6r0137/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 廣弘明集
-  朝代: null
-  作者: null
+  朝代: 唐
+  作者: 道宣
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR6r0138/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 法苑珠林
-  朝代: null
-  作者: null
+  朝代: 唐
+  作者: 道世
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR6s0002/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 開元釋教錄
-  朝代: null
-  作者: null
+  朝代: 唐
+  作者: 智昇
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR6s0093/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 宋高僧傳
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 贊寧
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR6r0054/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 法藏碎金錄
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 晁迥
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR4d0007/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 道院集要
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 晁迥
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR4d0008/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 禪林僧寶傳
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 惠洪
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR6q0040/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 林間錄
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 慧洪
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR6r0157/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 羅湖野錄
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 曉瑩
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR6r0092/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 五燈會元
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 普濟
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR6q0012/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 釋氏稽古略
-  朝代: null
-  作者: null
+  朝代: 元
+  作者: 覺岸
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR6r0014/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 佛祖歷代通載
-  朝代: null
-  作者: null
+  朝代: 元
+  作者: 念常
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR6r0013/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false

@@ -1,29 +1,53 @@
 null:
 - 題目: 楚辭章句
-  朝代: null
-  作者: null
+  朝代: 漢
+  作者: 王逸
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR4a0002/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 楚詞補注
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 洪興祖
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR4a0003/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 楚辭集注
   朝代: null
   作者: null
   維基: null
   資料: []
 - 題目: 離騷草木疏
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 吳仁傑
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR4a0005/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 欽定補繪蕭雲從離騷全圖
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 蕭雲從
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR4a0006/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 山帶閣註楚辭
   朝代: null
   作者: null

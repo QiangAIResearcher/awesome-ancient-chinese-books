@@ -1,44 +1,80 @@
 null:
 - 題目: 子夏易傳
-  朝代: null
-  作者: null
+  朝代: 周
+  作者: 卜商
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0002/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 周易鄭康成註
-  朝代: null
-  作者: null
+  朝代: 漢
+  作者: 鄭玄
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0003/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 新本鄭氏周易
   朝代: null
   作者: null
   維基: null
   資料: []
 - 題目: 陸氏易解
-  朝代: null
-  作者: null
+  朝代: 吳
+  作者: 陸績
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0005/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 周易註
-  朝代: null
-  作者: null
+  朝代: 魏
+  作者: 王弼
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0006/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 周易正義
   朝代: null
   作者: null
   維基: null
   資料: []
 - 題目: 周易集解
-  朝代: null
-  作者: null
+  朝代: 唐
+  作者: 李鼎祚
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0008/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 周易口訣義
-  朝代: null
-  作者: null
+  朝代: 唐
+  作者: 史徵
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0009/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 周易舉正
   朝代: null
   作者: null
@@ -46,274 +82,556 @@ null:
   資料: []
 - 題目: 易數鉤隱圖
   朝代: null
-  作者: null
+  作者: 劉牧
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR5a0160/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 周易口義
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 胡瑗
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0012/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 易說
   朝代: null
   作者: null
   維基: null
   資料: []
 - 題目: 橫渠易說
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 張載
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0014/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 東坡易傳
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 蘇軾
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0015/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 伊川易傳
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 程頤
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0016/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 易學辨惑
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 邵伯溫
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0017/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 了齋易說
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 陳瓘
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0018/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 吳園周易解
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 張根
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0019/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 周易新講義
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 耿南仲
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0020/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 紫巖易傳
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 張浚
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0021/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 讀易詳說
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 李光
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0022/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 易小傳
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 沈該
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0023/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 漢上易傳
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 朱震
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0024/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 周易窺餘
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 鄭剛中
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0025/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 易璇璣
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 吳沆
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0026/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 易變體義
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 都絜
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0027/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 周易經傳集解
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 林栗
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0028/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 易原
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 程大昌
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0029/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 周易古占法
   朝代: null
   作者: null
   維基: null
   資料: []
 - 題目: 原本周易本義
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 朱熹
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0031/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 周易本義
   朝代: null
   作者: null
   維基: null
   資料: []
 - 題目: 郭氏傳家易說
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 郭雍
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0033/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 周易義海撮要
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 李衡
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0034/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 南軒易說
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 張栻
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0035/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 復齋易說
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 趙彥肅
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0036/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 楊氏易傳
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 楊簡
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0037/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 周易玩辭
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 項安世
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0038/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 易說
   朝代: null
   作者: null
   維基: null
   資料: []
 - 題目: 誠齋易傳
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 楊萬里
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0040/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 大易粹言
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 方聞一
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0041/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 易圖說
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 吳仁傑
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0042/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 古周易
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 呂祖謙
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0043/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 易傳燈
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 徐總幹
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0044/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 易裨傳
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 林至
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0045/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 厚齋易學
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 馮椅
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0046/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 童溪易傳
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 王宗傳
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0047/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 周易總義
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 易祓
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0048/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 西谿易說
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 李過
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0049/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 丙子學易編
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 李心傳
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0050/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 易通
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 趙以夫
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0051/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 周易經傳訓解
   朝代: null
   作者: null
   維基: null
   資料: []
 - 題目: 易象意言
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 蔡淵
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0053/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 周易要義
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 魏了翁
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0054/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 易翼傳
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 鄭汝諧
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0055/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 朱文公易說
   朝代: null
   作者: null
   維基: null
   資料: []
 - 題目: 易學啟蒙小傳
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 稅與權
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0057/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 周易輯聞
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 趙汝楳
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0058/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 用易詳解
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: "李\U0002F8DB"
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0059/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 淙山讀周易記
   朝代: null
   作者: null
   維基: null
   資料: []
 - 題目: 周易傳義附錄
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 董楷
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0061/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 易學啟蒙通釋
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 胡方平
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0062/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 三易備遺
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 朱元昇
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0063/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 周易集說
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 兪琰
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0064/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 讀易舉要
   朝代: null
   作者: null
@@ -325,370 +643,766 @@ null:
   維基: null
   資料: []
 - 題目: 易圖通變
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 雷思齊
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0067/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 讀易私言
-  朝代: null
-  作者: null
+  朝代: 元
+  作者: 許衡
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0068/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 易附錄纂注
   朝代: null
   作者: null
   維基: null
   資料: []
 - 題目: 周易啟蒙翼傳
-  朝代: null
-  作者: null
+  朝代: 元
+  作者: 胡一桂
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0070/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 易纂言
-  朝代: null
-  作者: null
+  朝代: 元
+  作者: 吳澄
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0071/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 易纂言外翼
-  朝代: null
-  作者: null
+  朝代: 元
+  作者: 吳澄
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0072/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 易源奧義
-  朝代: null
-  作者: null
+  朝代: 元
+  作者: 保巴
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0073/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 周易程朱傳義折衷
-  朝代: null
-  作者: null
+  朝代: 元
+  作者: 趙采
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0074/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 周易衍義
-  朝代: null
-  作者: null
+  朝代: 元
+  作者: 胡震
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0075/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 易學濫觴
-  朝代: null
-  作者: null
+  朝代: 元
+  作者: 黃澤
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0076/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 大易緝說
-  朝代: null
-  作者: null
+  朝代: 元
+  作者: 王申子
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0077/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 周易本義通釋
-  朝代: null
-  作者: null
+  朝代: 元
+  作者: 胡炳文
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0078/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 周易本義集成
-  朝代: null
-  作者: null
+  朝代: 元
+  作者: 熊良輔
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0079/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 大易象數鉤深圖
   朝代: null
   作者: null
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR5a0159/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 學易記
-  朝代: null
-  作者: null
+  朝代: 元
+  作者: 李簡
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0081/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 周易集傳
-  朝代: null
-  作者: null
+  朝代: 元
+  作者: 龍仁夫
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0082/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 讀易考原
-  朝代: null
-  作者: null
+  朝代: 元
+  作者: 蕭漢中
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0083/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 易精蘊大義
-  朝代: null
-  作者: null
+  朝代: 元
+  作者: 解蒙
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0084/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 易學變通
-  朝代: null
-  作者: null
+  朝代: 元
+  作者: 曾貫
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0085/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 周易會通
-  朝代: null
-  作者: null
+  朝代: 元
+  作者: 董眞卿
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0086/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 周易圖說
-  朝代: null
-  作者: null
+  朝代: 元
+  作者: 錢義方
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0087/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 周易爻變易縕
-  朝代: null
-  作者: null
+  朝代: 元
+  作者: 陳應潤
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0088/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 周易參義
-  朝代: null
-  作者: null
+  朝代: 元
+  作者: 梁寅
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0089/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 周易文詮
-  朝代: null
-  作者: null
+  朝代: 元
+  作者: 趙汸
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0090/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 周易大全
   朝代: null
   作者: null
   維基: null
   資料: []
 - 題目: 易經蒙引
-  朝代: null
-  作者: null
+  朝代: 明
+  作者: 蔡清
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0092/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 讀易餘言
-  朝代: null
-  作者: null
+  朝代: 明
+  作者: 崔銑
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0093/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 啟蒙意見
-  朝代: null
-  作者: null
+  朝代: 明
+  作者: 韓邦奇
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0094/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 易經存疑
-  朝代: null
-  作者: null
+  朝代: 明
+  作者: 林希元
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0095/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 周易辨錄
   朝代: null
   作者: null
   維基: null
   資料: []
 - 題目: 易像鈔
-  朝代: null
-  作者: null
+  朝代: 明
+  作者: 胡居仁
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0097/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 周易象旨決錄
-  朝代: null
-  作者: null
+  朝代: 明
+  作者: 熊過
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0098/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 易象鉤解
   朝代: null
   作者: null
   維基: null
   資料: []
 - 題目: 周易集註
-  朝代: null
-  作者: null
+  朝代: 明
+  作者: 來知德
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0100/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 讀易紀聞
-  朝代: null
-  作者: null
+  朝代: 明
+  作者: 張獻翼
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0101/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 葉八白易傳
-  朝代: null
-  作者: null
+  朝代: 明
+  作者: 葉山
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0102/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 讀易述
-  朝代: null
-  作者: null
+  朝代: 明
+  作者: 潘士藻
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0103/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 像象管見
-  朝代: null
-  作者: null
+  朝代: 明
+  作者: 錢一本
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0104/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 周易劄記
   朝代: null
   作者: null
   維基: null
   資料: []
 - 題目: 周易易簡說
-  朝代: null
-  作者: null
+  朝代: 明
+  作者: 高攀龍
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0106/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 易義古象通
-  朝代: null
-  作者: null
+  朝代: 明
+  作者: 魏濬
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0107/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 周易像象述
-  朝代: null
-  作者: null
+  朝代: 明
+  作者: 吳桂森
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0108/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 易用
-  朝代: null
-  作者: null
+  朝代: 明
+  作者: 陳祖念
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0109/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 易象正
-  朝代: null
-  作者: null
+  朝代: 明
+  作者: 黃道周
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0110/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 兒易內儀以
   朝代: null
   作者: null
   維基: null
   資料: []
 - 題目: 卦變考略
-  朝代: null
-  作者: null
+  朝代: 明
+  作者: 董守諭
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0112/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 古周易訂詁
-  朝代: null
-  作者: null
+  朝代: 明
+  作者: 何楷
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0113/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 周易玩辭困學記
-  朝代: null
-  作者: null
+  朝代: 明
+  作者: 張次仲
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0114/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 易經通注
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 傅以漸
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0115/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 日講易經解義
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 牛鈕
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0116/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 御纂周易折中
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 李光地
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0117/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 御纂周易述義
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 傅恒
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0118/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 讀易大旨
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 孫奇逢
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0119/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 周易稗疏
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 王夫之
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0120/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 易酌
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 刁包
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0121/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 田間易學
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 錢澄之
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0122/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 易學象數論
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 黃宗羲
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0123/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 周易象辭
   朝代: null
   作者: null
   維基: null
   資料: []
 - 題目: 周易筮述
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 王弘撰
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0125/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 仲氏易
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 毛奇齡
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0126/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 推易始末
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 毛奇齡
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0127/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 春秋占筮書
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 毛奇齡
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0128/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 易小帖
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 毛奇齡
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0129/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 易俟
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 喬萊
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0130/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 讀易日鈔
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 張烈
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0131/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 周易通論
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 李光地
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0132/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 周易觀彖
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 李光地
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0133/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 周易淺述
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 陳夢雷
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0134/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 易原就正
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 包儀
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0135/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 大易通解
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 魏荔彤
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0136/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 易經衷論
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 張英
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0137/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 易圖明辨
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 胡渭
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0138/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 合訂刪補大易集義粹言
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 納喇性德
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0139/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 周易傳注
   朝代: null
   作者: null
@@ -700,20 +1414,38 @@ null:
   維基: null
   資料: []
 - 題目: 周易傳義合訂
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 朱軾
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0142/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 周易玩辭集解
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 查愼行
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0143/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 易說
   朝代: null
   作者: null
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR5i0052/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 周易函書約存
   朝代: null
   作者: null
@@ -730,60 +1462,108 @@ null:
   維基: null
   資料: []
 - 題目: 易翼宗
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 晏斯盛
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0148/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 易翼說
   朝代: null
   作者: null
   維基: null
   資料: []
 - 題目: 周易孔義集說
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 沈起元
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0150/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 易翼述信
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 王又樸
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0151/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 周易淺釋
   朝代: null
   作者: null
   維基: null
   資料: []
 - 題目: 周易洗心
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 任啟運
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0153/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 豐川易說
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 王心敬
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0154/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 周易述
   朝代: null
   作者: null
   維基: null
   資料: []
 - 題目: 易漢學
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 惠棟
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0156/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 易例
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 惠棟
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0157/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 易象大意存解
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 任陳晉
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0158/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 大易擇言
   朝代: null
   作者: null
@@ -800,47 +1580,101 @@ null:
   維基: null
   資料: []
 - 題目: 周易章句證異
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 翟圴廉
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0162/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 乾坤鑿度
-  朝代: null
-  作者: null
+  朝代: 漢
+  作者: 鄭玄
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0163/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 易緯稽覽圖
-  朝代: null
-  作者: null
+  朝代: 漢
+  作者: 鄭玄
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0164/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 易緯辨終備
-  朝代: null
-  作者: null
+  朝代: 漢
+  作者: 鄭玄
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0165/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 周易乾鑿度
-  朝代: null
-  作者: null
+  朝代: 漢
+  作者: 鄭玄
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0166/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 易緯通卦驗
-  朝代: null
-  作者: null
+  朝代: 漢
+  作者: 鄭玄
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0167/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 易緯乾元序制記
-  朝代: null
-  作者: null
+  朝代: 漢
+  作者: 鄭玄
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0168/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 易緯是類謀
-  朝代: null
-  作者: null
+  朝代: 漢
+  作者: 鄭玄
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0169/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 易緯坤靈圖
-  朝代: null
-  作者: null
+  朝代: 漢
+  作者: 鄭玄
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1a0170/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false

@@ -1,109 +1,229 @@
 null:
 - 題目: 國語
-  朝代: null
-  作者: null
+  朝代: 吳
+  作者: 韋昭
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR2e0001/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 國語補音
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 宋庠
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR2e0002/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 戰國策
-  朝代: null
-  作者: null
+  朝代: 漢
+  作者: 高誘
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR2e0003/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 鮑氏戰國策注
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 鮑彪
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR2e0004/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 戰國策校注
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 吳師道
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR2e0005/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 貞觀政要
-  朝代: null
-  作者: null
+  朝代: 唐
+  作者: 吳兢
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR2e0006/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 渚宮舊事
-  朝代: null
-  作者: null
+  朝代: 唐
+  作者: 余知古
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR2e0007/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 東觀奏記
-  朝代: null
-  作者: null
+  朝代: 唐
+  作者: 斐庭裕
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR2e0008/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 五代史闕文
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 王禹偁
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR2e0009/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 五代史補
-  朝代: null
-  作者: null
+  朝代: 晉
+  作者: 陶岳
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR2e0010/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 北狩見聞錄
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 曹勛
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR2e0011/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 松漠紀聞
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 洪皓
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR2e0012/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 燕翼詒謀錄
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 王栐
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR2e0013/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 太平治跡統類
   朝代: null
   作者: null
   維基: null
   資料: []
 - 題目: 咸淳遺事
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 闕名
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR2e0015/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 大金弔伐錄
   朝代: null
-  作者: null
+  作者: 闕名
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR2e0016/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 汝南遺事
-  朝代: null
-  作者: null
+  朝代: 元
+  作者: 王鶚
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR2e0017/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 錢塘遺事
-  朝代: null
-  作者: null
+  朝代: 元
+  作者: 劉一清
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR2e0018/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 平宋錄
-  朝代: null
-  作者: null
+  朝代: 元
+  作者: 劉敏中
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR2e0019/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 弇山堂別集
-  朝代: null
-  作者: null
+  朝代: 明
+  作者: 王世貞
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR2e0020/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 革除逸史
-  朝代: null
-  作者: null
+  朝代: 明
+  作者: 朱睦㮮
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR2e0021/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 蒙古源流
   朝代: null
   作者: null

@@ -1,14 +1,26 @@
 null:
 - 題目: 兩漢博聞
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 楊侃
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR2h0001/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 通鑑總類
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 沈樞
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR2h0002/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 南北史識小錄
   朝代: null
   作者: null

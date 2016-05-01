@@ -1,94 +1,178 @@
 null:
 - 題目: 駁五經異義
-  朝代: null
-  作者: null
+  朝代: 漢
+  作者: 許愼
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1g0001/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 鄭志
-  朝代: null
-  作者: null
+  朝代: 魏
+  作者: 鄭小同
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1g0002/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 經典釋文
-  朝代: null
-  作者: null
+  朝代: 唐
+  作者: 陸德明
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1g0003/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 七經小傳
   朝代: null
   作者: null
   維基: null
   資料: []
 - 題目: 程氏經說
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 程頤
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1g0005/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 六經圖
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 楊甲
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1g0006/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 六經正誤
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 毛居正
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1g0007/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 刊正九經三傳沿革例
   朝代: null
   作者: null
   維基: null
   資料: []
 - 題目: 融堂四書管見
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 錢時
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1g0009/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 四如講稿
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 黃仲元
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1g0010/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 六經奧論
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 鄭樵
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1g0011/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 明本排字九經直音
   朝代: null
-  作者: null
+  作者: 闕名
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1g0012/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 經說
   朝代: null
   作者: null
   維基: null
   資料: []
 - 題目: 十一經問對
-  朝代: null
-  作者: null
+  朝代: 元
+  作者: 何異孫
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1g0014/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 五經蠡測
-  朝代: null
-  作者: null
+  朝代: 明
+  作者: 蔣悌生
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1g0015/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 簡端錄
   朝代: null
   作者: null
   維基: null
   資料: []
 - 題目: 五經稽疑
-  朝代: null
-  作者: null
+  朝代: 明
+  作者: 朱睦㮮
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1g0017/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 經典稽疑
-  朝代: null
-  作者: null
+  朝代: 明
+  作者: 陳耀文
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1g0018/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 御製繙譯五經四書
   朝代: null
   作者: null

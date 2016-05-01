@@ -1,286 +1,550 @@
 null:
 - 題目: 尚書注疏
-  朝代: null
-  作者: null
+  朝代: 漢
+  作者: 孔安國
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1b0004/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 洪範口義
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 胡瑗
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1b0005/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 書傳
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 蘇軾
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1b0006/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 尚書全解
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 林之奇
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1b0007/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 禹貢指南
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 毛晃
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1b0008/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 禹貢論
   朝代: null
   作者: null
   維基: null
   資料: []
 - 題目: 尚書講義
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 史浩
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1b0010/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 尚書詳解
   朝代: null
   作者: null
   維基: null
   資料: []
 - 題目: 禹貢說斷
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 傅寅
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1b0012/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 增修書說
   朝代: null
   作者: null
   維基: null
   資料: []
 - 題目: 尚書說
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 黃度
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1b0014/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 五誥解
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 楊簡
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1b0015/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 絜齋家塾書鈔
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 袁燮
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1b0016/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 書集傳
   朝代: null
   作者: null
   維基: null
   資料: []
 - 題目: 尚書精義
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 黃倫
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1b0018/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 陳氏尚書詳解
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 陳經
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1b0019/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 融堂書解
   朝代: null
   作者: null
   維基: null
   資料: []
 - 題目: 洪範統一
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 趙善湘
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1b0021/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 尚書要義
   朝代: null
   作者: null
   維基: null
   資料: []
 - 題目: 書集傳或問
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 陳大猷
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1b0023/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 尚書詳解
   朝代: null
   作者: null
   維基: null
   資料: []
 - 題目: 尚書表注
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 金履祥
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1b0025/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 書纂言
-  朝代: null
-  作者: null
+  朝代: 元
+  作者: 吳澄
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1b0026/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 尚書集傳纂疏
   朝代: null
   作者: null
   維基: null
   資料: []
 - 題目: 讀書叢說
-  朝代: null
-  作者: null
+  朝代: 元
+  作者: 許謙
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1b0028/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 書傳輯錄纂注
   朝代: null
   作者: null
   維基: null
   資料: []
 - 題目: 尚書通考
-  朝代: null
-  作者: null
+  朝代: 元
+  作者: 黃鎭成
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1b0030/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 書蔡傳旁通
   朝代: null
   作者: null
   維基: null
   資料: []
 - 題目: 讀書管見
-  朝代: null
-  作者: null
+  朝代: 元
+  作者: 王充耘
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1b0032/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 書義斷法
-  朝代: null
-  作者: null
+  朝代: 元
+  作者: 陳悅道
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1b0033/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 尚書纂傳
-  朝代: null
-  作者: null
+  朝代: 元
+  作者: 王天與
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1b0034/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 尚書句解
-  朝代: null
-  作者: null
+  朝代: 元
+  作者: 朱祖義
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1b0035/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 書傳會選
-  朝代: null
-  作者: null
+  朝代: 明
+  作者: 劉三吾
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1b0036/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 書經大全
-  朝代: null
-  作者: null
+  朝代: 明
+  作者: 胡廣
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1b0037/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 尚書考異
-  朝代: null
-  作者: null
+  朝代: 明
+  作者: 梅鷟
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1b0038/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 尚書疑義
-  朝代: null
-  作者: null
+  朝代: 明
+  作者: 馬明衡
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1b0039/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 尚書日記
-  朝代: null
-  作者: null
+  朝代: 明
+  作者: 王樵
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1b0040/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 尚書砭蔡編
-  朝代: null
-  作者: null
+  朝代: 明
+  作者: 袁仁
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1b0041/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 尚書註考
   朝代: null
   作者: null
   維基: null
   資料: []
 - 題目: 尚書疏衍
-  朝代: null
-  作者: null
+  朝代: 明
+  作者: 陳第
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1b0043/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 洪範明義
-  朝代: null
-  作者: null
+  朝代: 明
+  作者: 黃道周
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1b0044/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 日講書經解義
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 庫勒納
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1b0045/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 欽定書經傳說彙纂
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 王頊齡
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1b0046/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 尚書稗疏
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 王夫之
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1b0047/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 尚書古文疏證
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 閻若璩
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1b0048/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 古文尚書冤詞
   朝代: null
   作者: null
   維基: null
   資料: []
 - 題目: 尚書廣聽錄
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 毛奇齡
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1b0050/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 尚書埤傳
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 朱鶴齡
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1b0051/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 禹貢長箋
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 朱鶴齡
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1b0052/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 禹貢錐指
   朝代: null
   作者: null
   維基: null
   資料: []
 - 題目: 洪範正論
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 胡渭
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1b0054/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 尚書七篇解義
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 李光地
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1b0055/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 書經衷論
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 張英
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1b0056/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 尚書地理今釋
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 蔣廷錫
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1b0057/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 禹貢會箋
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 徐文靖
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1b0058/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 尚書大傳
-  朝代: null
-  作者: null
+  朝代: 漢
+  作者: 伏勝
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1b0059/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 書義矜式
-  朝代: null
-  作者: null
+  朝代: 元
+  作者: 王充耘
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1b0060/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false

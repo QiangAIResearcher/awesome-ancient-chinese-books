@@ -1,44 +1,86 @@
 詔令之屬:
 - 題目: 太祖高皇帝聖訓
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 聖祖
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR2f0001/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 太宗文皇帝聖訓
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 世祖
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR2f0002/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 世祖章皇帝聖訓
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 聖祖
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR2f0004/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 聖祖仁皇帝聖訓
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 世宗
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR2f0005/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 世宗憲皇帝聖訓
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 高宗
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR2f0006/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 上諭有閣
   朝代: null
   作者: null
   維基: null
   資料: []
 - 題目: 世宗憲皇帝硃批諭旨
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 世宗胤禛
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR2f0009/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 唐大詔令集
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 宋敏求
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR2f0010/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 兩漢詔令
   朝代: null
   作者: null
@@ -56,137 +98,281 @@
   維基: null
   資料: []
 - 題目: 盡言集
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 劉安世
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR2f0014/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 讜論集
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 陳次升
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR2f0015/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 左史諫草
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 呂午
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR2f0016/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 商文毅疏稿
-  朝代: null
-  作者: null
+  朝代: 明
+  作者: 商輅
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR2f0017/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 王端毅奏議
-  朝代: null
-  作者: null
+  朝代: 明
+  作者: 王恕
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR2f0018/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 端肅奏議
   朝代: null
   作者: null
   維基: null
   資料: []
 - 題目: 關中奏議
-  朝代: null
-  作者: null
+  朝代: 明
+  作者: 楊一清
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR2f0020/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 胡端敏奏議
-  朝代: null
-  作者: null
+  朝代: 明
+  作者: 胡世寧
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR2f0021/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 楊文忠三錄
-  朝代: null
-  作者: null
+  朝代: 明
+  作者: 楊廷和
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR2f0022/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 何文簡疏議
-  朝代: null
-  作者: null
+  朝代: 明
+  作者: 何孟春
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR2f0023/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 垂光集
-  朝代: null
-  作者: null
+  朝代: 明
+  作者: 周璽
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR2f0024/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 孫毅菴奏議
-  朝代: null
-  作者: null
+  朝代: 明
+  作者: 孫懋
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR2f0025/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 玉坡奏議
-  朝代: null
-  作者: null
+  朝代: 明
+  作者: 張原
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR2f0026/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 南宮奏稿
-  朝代: null
-  作者: null
+  朝代: 明
+  作者: 夏言
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR2f0027/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 訥谿奏疏
-  朝代: null
-  作者: null
+  朝代: 明
+  作者: 周怡
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR2f0028/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 譚襄敏奏議
-  朝代: null
-  作者: null
+  朝代: 明
+  作者: 譚綸
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR2f0029/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 潘司空奏疏
-  朝代: null
-  作者: null
+  朝代: 明
+  作者: 潘季馴
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR2f0030/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 兩河經略
-  朝代: null
-  作者: null
+  朝代: 明
+  作者: 潘季馴
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR2f0031/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 兩垣奏議
-  朝代: null
-  作者: null
+  朝代: 明
+  作者: 逯中立
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR2f0032/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 周忠愍奏疏
-  朝代: null
-  作者: null
+  朝代: 明
+  作者: 周起元
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR2f0033/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 張襄壯奏疏
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 張勇
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR2f0034/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 文襄奏疏
   朝代: null
   作者: null
   維基: null
   資料: []
 - 題目: 華野疏稿
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 郭琇
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR2f0036/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 名臣奏議
   朝代: null
   作者: null
   維基: null
   資料: []
 - 題目: 歷代名臣奏議
-  朝代: null
-  作者: null
+  朝代: 明
+  作者: 楊士奇
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR2f0039/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 名臣經濟錄
-  朝代: null
-  作者: null
+  朝代: 明
+  作者: 黃訓
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR2f0040/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 御選明臣奏議
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 高宗弘曆
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR2f0041/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false

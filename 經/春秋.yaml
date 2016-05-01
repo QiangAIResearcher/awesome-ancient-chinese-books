@@ -1,14 +1,26 @@
 null:
 - 題目: 春秋左傳注疏
-  朝代: null
-  作者: null
+  朝代: 周
+  作者: 左丘明
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1e0004/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 春秋公羊傳注疏
-  朝代: null
-  作者: null
+  朝代: 周
+  作者: 公羊高
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1e0006/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 春秋穀梁傳注疏
   朝代: null
   作者: null
@@ -20,55 +32,109 @@ null:
   維基: null
   資料: []
 - 題目: 春秋釋例
-  朝代: null
-  作者: null
+  朝代: 晉
+  作者: 杜預
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1e0012/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 春秋集傳纂例
-  朝代: null
-  作者: null
+  朝代: 唐
+  作者: 陸淳
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1e0013/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 春秋微旨
   朝代: null
   作者: null
   維基: null
   資料: []
 - 題目: 春秋集傳辨疑
-  朝代: null
-  作者: null
+  朝代: 唐
+  作者: 陸淳
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1e0015/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 春秋名號歸一圖
-  朝代: null
-  作者: null
+  朝代: 後蜀
+  作者: 馮繼先
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1e0016/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 春秋年表
   朝代: null
-  作者: null
+  作者: 闕名
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1e0017/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 春秋尊王發微
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 孫復
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1e0018/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 春秋皇綱論
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 王晳
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1e0019/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 春秋通義
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 闕名
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1e0020/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 春秋權衡
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 劉敞
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1e0021/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 春秋傳
   朝代: null
   作者: null
@@ -80,55 +146,109 @@ null:
   維基: null
   資料: []
 - 題目: 春秋傳說例
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 劉敞
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1e0024/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 孫氏春秋經解
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 孫覺
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1e0025/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 蘇氏春秋集解
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 蘇轍
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1e0026/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 春秋辨疑
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 蕭楚
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1e0027/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 春秋經解
   朝代: null
   作者: null
   維基: null
   資料: []
 - 題目: 春秋本例
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 崔子方
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1e0029/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 春秋五禮例宗
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 張大亨
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1e0030/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 春秋通訓
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 張大亨
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1e0031/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 葉氏春秋傳
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 葉夢得
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1e0032/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 春秋考
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 葉夢得
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1e0033/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 春秋左傳讞
   朝代: null
   作者: null
@@ -145,10 +265,16 @@ null:
   維基: null
   資料: []
 - 題目: 呂氏春秋集解
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 呂本中
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1e0035/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 春秋傳
   朝代: null
   作者: null
@@ -160,130 +286,256 @@ null:
   維基: null
   資料: []
 - 題目: 春秋後傳
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 陳傅良
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1e0038/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 春秋左氏傳說
   朝代: null
   作者: null
   維基: null
   資料: []
 - 題目: 左氏傳續說
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 呂祖謙
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1e0040/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 左氏博議
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 呂祖謙
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1e0041/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 春秋比事
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 沈棐
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1e0042/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 春秋左傳要義
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 魏了翁
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1e0044/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 春秋分記
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 程公說
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1e0045/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 春秋講義
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 戴溪
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1e0046/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 春秋集義
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 李明復
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1e0047/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 春秋集注
   朝代: null
   作者: null
   維基: null
   資料: []
 - 題目: 春秋王霸列國世紀編
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 李琪
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1e0049/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 春秋通說
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 黃仲炎
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1e0050/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 洪氏春秋說
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 洪咨虁
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1e0051/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 春秋經筌
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 趙鵬飛
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1e0052/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 春秋或問
   朝代: null
   作者: null
   維基: null
   資料: []
 - 題目: 春秋集傳詳說
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 家鉉翁
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1e0054/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 讀春秋編
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 陳深
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1e0055/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 春秋集傳釋義大成
-  朝代: null
-  作者: null
+  朝代: 元
+  作者: 兪皋
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1e0056/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 春秋纂言
-  朝代: null
-  作者: null
+  朝代: 元
+  作者: 吳澄
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1e0057/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 春秋提綱
-  朝代: null
-  作者: null
+  朝代: 元
+  作者: 陳則通
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1e0058/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 春秋諸國統紀
-  朝代: null
-  作者: null
+  朝代: 元
+  作者: 齊履謙
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1e0059/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 春秋本義
-  朝代: null
-  作者: null
+  朝代: 元
+  作者: 程端學
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1e0060/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 程氏春秋或問
-  朝代: null
-  作者: null
+  朝代: 元
+  作者: 程端學
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1e0061/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 春秋三傳辨疑
   朝代: null
   作者: null
   維基: null
   資料: []
 - 題目: 春秋讞義
-  朝代: null
-  作者: null
+  朝代: 元
+  作者: 王元杰
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1e0063/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 春秋諸傳會通
   朝代: null
   作者: null
@@ -295,287 +547,581 @@ null:
   維基: null
   資料: []
 - 題目: 春秋集傳
-  朝代: null
-  作者: null
+  朝代: 元
+  作者: 趙汸
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1e0066/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 春秋師說
-  朝代: null
-  作者: null
+  朝代: 元
+  作者: 趙汸
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1e0067/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 春秋左氏傳補註
-  朝代: null
-  作者: null
+  朝代: 元
+  作者: 趙汸
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1e0068/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 春秋金鎖匙
-  朝代: null
-  作者: null
+  朝代: 元
+  作者: 趙汸
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1e0069/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 春秋屬辭
-  朝代: null
-  作者: null
+  朝代: 元
+  作者: 趙汸
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1e0070/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 春秋胡傳附錄纂疏
-  朝代: null
-  作者: null
+  朝代: 元
+  作者: 汪克寬
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1e0071/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 春秋春王正月考
-  朝代: null
-  作者: null
+  朝代: 明
+  作者: 張以寧
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1e0072/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 春秋
   朝代: null
   作者: null
   維基: null
   資料: []
 - 題目: 春秋大全
-  朝代: null
-  作者: null
+  朝代: 明
+  作者: 胡廣
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1e0074/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 春秋經傳辨疑
-  朝代: null
-  作者: null
+  朝代: 明
+  作者: 童品
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1e0075/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 春秋正傳
-  朝代: null
-  作者: null
+  朝代: 明
+  作者: 湛若水
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1e0076/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 左傳附註
   朝代: null
   作者: null
   維基: null
   資料: []
 - 題目: 春秋胡氏傳辨疑
-  朝代: null
-  作者: null
+  朝代: 明
+  作者: 陸粲
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1e0078/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 春秋明志錄
-  朝代: null
-  作者: null
+  朝代: 明
+  作者: 熊過
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1e0079/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 春秋正旨
-  朝代: null
-  作者: null
+  朝代: 明
+  作者: 高拱
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1e0080/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 春秋
   朝代: null
   作者: null
   維基: null
   資料: []
 - 題目: 春秋億
-  朝代: null
-  作者: null
+  朝代: 明
+  作者: 徐學謨
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1e0082/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 春秋事義全考
-  朝代: null
-  作者: null
+  朝代: 明
+  作者: 姜寶
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1e0083/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 春秋左傳屬事
-  朝代: null
-  作者: null
+  朝代: 明
+  作者: 傅遜
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1e0084/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 春秋胡傳考誤
-  朝代: null
-  作者: null
+  朝代: 明
+  作者: 袁仁
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1e0085/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 左氏釋
-  朝代: null
-  作者: null
+  朝代: 明
+  作者: 馮時可
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1e0086/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 春秋質疑
-  朝代: null
-  作者: null
+  朝代: 明
+  作者: 楊于庭
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1e0087/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 春秋孔義
-  朝代: null
-  作者: null
+  朝代: 明
+  作者: 高攀龍
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1e0088/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 春秋辯義
-  朝代: null
-  作者: null
+  朝代: 明
+  作者: 卓爾康
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1e0089/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 讀春秋略記
-  朝代: null
-  作者: null
+  朝代: 明
+  作者: 朱朝瑛
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1e0090/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 春秋四傳質
-  朝代: null
-  作者: null
+  朝代: 明
+  作者: 王介之
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1e0091/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 左傳杜林合注
-  朝代: null
-  作者: null
+  朝代: 晉
+  作者: 杜預
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1e0092/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 日講春秋解義
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 庫勒納
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1e0093/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 欽定春秋傳說彙纂
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 王掞
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1e0094/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 御纂春秋直解
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 傅恒
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1e0095/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 左傳杜解補正
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 顧炎武
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1e0096/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 春秋稗疏
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 王夫之
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1e0097/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 春秋四傳糾正
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 兪汝言
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1e0098/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 春秋平義
   朝代: null
   作者: null
   維基: null
   資料: []
 - 題目: 讀左日鈔
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 朱鶴齡
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1e0100/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 左傳事緯
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 馬驌
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1e0101/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 春秋毛氏傳
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 毛奇齡
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1e0102/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 春秋簡書刊誤
   朝代: null
   作者: null
   維基: null
   資料: []
 - 題目: 春秋屬辭比事記
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 毛奇齡
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1e0104/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 春秋地名考略
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 高士奇
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1e0105/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 春秋管窺
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 徐庭垣
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1e0106/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 三傳折諸
   朝代: null
   作者: null
   維基: null
   資料: []
 - 題目: 春秋闕如編
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 焦袁熹
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1e0108/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 春秋宗朱辨義
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 張自超
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1e0109/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 春秋通論
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 方苞
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1e0110/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 春秋世族譜
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 陳厚耀
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1e0111/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 春秋長歷
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 陳厚耀
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1e0112/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 春秋說
   朝代: null
   作者: null
   維基: null
   資料: []
 - 題目: 春秋大事表
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 顧棟高
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1e0114/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 春秋識小錄
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 程廷祚
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1e0115/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 左傳補注
   朝代: null
   作者: null
   維基: null
   資料: []
 - 題目: 春秋左傳小疏
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 沈彤
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1e0117/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 春秋地理考實
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 江永
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1e0118/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 三正考
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 吳鼐
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1e0119/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 春秋究遺
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 葉酉
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1e0120/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 春秋隨筆
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 顧奎光
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1e0121/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 春秋繁露
-  朝代: null
-  作者: null
+  朝代: 漢
+  作者: 董仲舒
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1e0122/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false

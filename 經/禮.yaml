@@ -1,74 +1,146 @@
 周禮之屬:
 - 題目: 周禮注疏
-  朝代: null
-  作者: null
+  朝代: 漢
+  作者: 鄭玄
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1d0003/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 周官新義
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 王安石
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1d0004/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 周禮詳解
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 王昭禹
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1d0005/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 周禮復古編
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 兪庭椿
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1d0006/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 禮經會元
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 葉時
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1d0007/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 太平經國書
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 鄭伯謙
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1d0008/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 周官總義
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 易祓
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1d0009/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 周禮訂義
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 王與之
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1d0010/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 考工記解
   朝代: null
   作者: null
   維基: null
   資料: []
 - 題目: 周禮句解
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 朱申
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1d0012/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 周禮集說
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 闕名
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1d0013/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 周官集傳
-  朝代: null
-  作者: null
+  朝代: 元
+  作者: 毛應龍
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1d0014/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 周禮傳
   朝代: null
   作者: null
   維基: null
   資料: []
 - 題目: 周禮全經釋原
-  朝代: null
-  作者: null
+  朝代: 明
+  作者: 柯尚遷
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1d0016/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 周禮注疏刪翼
   朝代: null
   作者: null
@@ -80,30 +152,60 @@
   維基: null
   資料: []
 - 題目: 周禮述註
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 李光坡
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1d0019/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 周禮纂訓
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 李鍾倫
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1d0020/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 周官集注
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 方苞
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1d0021/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 禮說
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 惠士奇
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1d0022/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 周官祿田考
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 沈彤
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1d0023/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 周禮疑義舉要
   朝代: null
   作者: null
@@ -111,95 +213,185 @@
   資料: []
 儀禮之屬:
 - 題目: 儀禮注疏
-  朝代: null
-  作者: null
+  朝代: 漢
+  作者: 鄭玄
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1d0028/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 儀禮識誤
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 張淳
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1d0029/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 儀禮集釋
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 李如圭
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1d0030/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 儀禮釋宮
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 李如圭
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1d0031/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 儀禮圖
   朝代: null
   作者: null
   維基: null
   資料: []
 - 題目: 儀禮要義
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 魏了翁
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1d0033/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 儀禮逸經
-  朝代: null
-  作者: null
+  朝代: 元
+  作者: 吳澄
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1d0034/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 儀禮集說
-  朝代: null
-  作者: null
+  朝代: 元
+  作者: 敖繼公
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1d0035/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 經禮補逸
-  朝代: null
-  作者: null
+  朝代: 元
+  作者: 汪克寬
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1d0036/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 欽定儀禮義疏
   朝代: null
   作者: null
   維基: null
   資料: []
 - 題目: 儀禮鄭註句讀
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 張爾岐
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1d0038/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 儀禮商
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 萬斯大
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1d0039/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 儀禮述注
   朝代: null
   作者: null
   維基: null
   資料: []
 - 題目: 儀禮析疑
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 方苞
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1d0041/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 儀禮章句
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 吳廷華
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1d0042/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 補饗禮
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 諸錦
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1d0043/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 禮經本義
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 蔡德晉
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1d0044/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 宮室考
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 任啟運
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1d0045/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 肆獻祼饋食禮
   朝代: null
   作者: null
@@ -211,206 +403,434 @@
   維基: null
   資料: []
 - 題目: 儀禮小疏
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 沈彤
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1d0048/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 儀禮集編
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 盛世佐
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1d0049/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 讀禮通考
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 徐乾學
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1d0051/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 禮記之屬:
 - 題目: 禮記注疏
-  朝代: null
-  作者: null
+  朝代: 漢
+  作者: 鄭玄
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1d0053/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 月令解
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 張虙
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1d0056/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 禮記集說
   朝代: null
   作者: null
   維基: null
   資料: []
 - 題目: 禮記纂言
-  朝代: null
-  作者: null
+  朝代: 元
+  作者: 吳澄
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1d0058/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 禮記集說
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 衞湜
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1d0057/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 禮記大全
-  朝代: null
-  作者: null
+  朝代: 明
+  作者: 胡廣
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1d0060/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 月令明義
-  朝代: null
-  作者: null
+  朝代: 明
+  作者: 黃道周
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1d0062/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 表記集傳
-  朝代: null
-  作者: null
+  朝代: 明
+  作者: 黃道周
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1d0063/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 坊記集傳
-  朝代: null
-  作者: null
+  朝代: 明
+  作者: 黃道周
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1d0064/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 緇衣集傳
-  朝代: null
-  作者: null
+  朝代: 明
+  作者: 黃道周
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1d0065/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 儒行集傳
-  朝代: null
-  作者: null
+  朝代: 明
+  作者: 黃道周
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1d0066/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 日講禮記解義
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 張廷玉
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1d0067/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 欽定禮記義疏
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 高宗弘曆
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1d0068/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 深衣考
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 黃宗義
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1d0069/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 陳氏禮記集說補正
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 納喇性德
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1d0070/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 禮記述註
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 李光坡
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1d0071/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 禮記析疑
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 方苞
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1d0072/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 檀弓疑問
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 邵泰衢
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1d0073/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 禮記訓義擇言
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 江永
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1d0074/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 深衣考誤
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 江永
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1d0075/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 大戴禮記
-  朝代: null
-  作者: null
+  朝代: 漢
+  作者: 戴德
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1d0076/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 夏小正戴氏傳
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 傅崧卿
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1d0077/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 三禮總義之屬:
 - 題目: 三禮圖集注
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 聶崇義
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1d0078/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 三禮圖
-  朝代: null
-  作者: null
+  朝代: 明
+  作者: 劉績
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1d0079/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 學禮質疑
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 萬斯大
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1d0080/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 讀禮志疑
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 陸隴其
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1d0081/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 郊社禘祫問
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 毛奇齡
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1d0082/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 參讀禮志疑
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 汪紱
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1d0083/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 通禮之屬:
 - 題目: 禮書
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 陳祥道
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1d0084/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 儀禮經傳通解
   朝代: null
   作者: null
   維基: null
   資料: []
 - 題目: 禮書綱目
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 江永
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1d0086/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 五禮通考
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 泰蕙田
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1d0087/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 雜禮書之屬:
 - 題目: 書儀
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 司馬光
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1d0088/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 家禮
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 朱熹
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1d0089/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 泰泉鄉禮
-  朝代: null
-  作者: null
+  朝代: 明
+  作者: 黃佐
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1d0090/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 朱子禮纂
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 李光地
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1d0091/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 辨定祭禮通俗譜
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 毛奇齡
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1d0092/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false

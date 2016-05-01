@@ -1,19 +1,37 @@
 官制之屬:
 - 題目: 唐六典
-  朝代: null
-  作者: null
+  朝代: 唐
+  作者: 張九齡
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR2l0001/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 翰林志
-  朝代: null
-  作者: null
+  朝代: 唐
+  作者: 李肇
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR2l0002/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 麟臺故事
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 程俱
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR2l0003/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 翰苑群書
   朝代: null
   作者: null
@@ -25,83 +43,173 @@
   維基: null
   資料: []
 - 題目: 玉堂雜記
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 周必大
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR2l0006/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 宋宰輔編年錄
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 徐自明
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR2l0007/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 祕書監志
-  朝代: null
-  作者: null
+  朝代: 元
+  作者: 王士點
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR2l0008/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 翰林記
   朝代: null
   作者: null
   維基: null
   資料: []
 - 題目: 禮部志稿
-  朝代: null
-  作者: null
+  朝代: 明
+  作者: 林堯俞
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR2l0010/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 太常續考
-  朝代: null
-  作者: null
+  朝代: 明
+  作者: 闕名
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR2l0011/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 土官底簿
-  朝代: null
-  作者: null
+  朝代: 明
+  作者: 闕名
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR2l0012/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 詞林典故
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 鄂爾泰
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR2l0013/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 欽定國子監志
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 梁國治
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR2l0014/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 欽定歷代職官表
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 永瑢
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR2l0015/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 官箴之屬:
 - 題目: 州縣提綱
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 闕名
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR2l0016/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 官箴
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 呂本中
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR2l0017/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 百官箴
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 許月卿
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR2l0018/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 晝簾緒論
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 胡太初
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR2l0020/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 三事忠告
-  朝代: null
-  作者: null
+  朝代: 元
+  作者: 張養浩
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR2l0021/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 御定人臣儆心錄
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 世祖
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR2l0022/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false

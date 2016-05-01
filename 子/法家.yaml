@@ -1,9 +1,15 @@
 null:
 - 題目: 管子
-  朝代: null
-  作者: null
+  朝代: 周
+  作者: 管仲
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR3c0001/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 管子補註
   朝代: null
   作者: null
@@ -15,27 +21,57 @@ null:
   維基: null
   資料: []
 - 題目: 商子
-  朝代: null
-  作者: null
+  朝代: 秦
+  作者: 商鞅
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR3c0004/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 韓非子
-  朝代: null
-  作者: null
+  朝代: 周
+  作者: 韓非
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR3c0005/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 疑獄集
-  朝代: null
-  作者: null
+  朝代: 五代
+  作者: 和凝
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR3c0006/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 折獄龜鑑
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 鄭克
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR3c0007/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 棠陰比事
-  朝代: null
-  作者: null
+  朝代: 宋
+  作者: 桂萬榮
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR3c0008/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false

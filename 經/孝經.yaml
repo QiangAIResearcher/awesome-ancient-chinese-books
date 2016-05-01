@@ -1,14 +1,26 @@
 null:
 - 題目: 古文孝經孔氏傳
-  朝代: null
-  作者: null
+  朝代: 漢
+  作者: 孔安國
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1f0003/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 孝經注疏
-  朝代: null
-  作者: null
+  朝代: 唐
+  作者: 玄宗
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1f0004/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 古文孝經指解
   朝代: null
   作者: null
@@ -20,37 +32,79 @@ null:
   維基: null
   資料: []
 - 題目: 孝經大義
-  朝代: null
-  作者: null
+  朝代: 元
+  作者: 董鼎
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1f0007/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 孝經定本
-  朝代: null
-  作者: null
+  朝代: 元
+  作者: 吳澄
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1f0008/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 孝經述註
-  朝代: null
-  作者: null
+  朝代: 明
+  作者: 項霦
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1f0009/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 孝經集傳
-  朝代: null
-  作者: null
+  朝代: 明
+  作者: 黃道周
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1f0010/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 御定孝經注
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 世祖
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1f0011/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 御纂孝經集註
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 世宗胤禎
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1f0012/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
 - 題目: 孝經問
-  朝代: null
-  作者: null
+  朝代: 清
+  作者: 毛奇齡
   維基: null
-  資料: []
+  資料:
+  - 標題: Kanripo 漢籍リポジトリ
+    網址: https://www.kanripo.org/text/KR1f0013/
+    限制: 无
+    文字: true
+    影印: false
+    简体: false
