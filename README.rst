@@ -15,53 +15,53 @@ A curated list of awesome ancient chinese books
 集 `楚辭`__ `别集`__ `總集`__ `詩文評`__ `詞曲`__
 == ==============================================================================================================================================
 
-.. __: 經/易/README.rst
-.. __: 經/書/README.rst
-.. __: 經/詩/README.rst
-.. __: 經/禮/README.rst
-.. __: 經/春秋/README.rst
-.. __: 經/孝經/README.rst
-.. __: 經/五經總義/README.rst
-.. __: 經/四書/README.rst
-.. __: 經/樂/README.rst
-.. __: 經/小學/README.rst
+.. __: 經/易.yaml
+.. __: 經/書.yaml
+.. __: 經/詩.yaml
+.. __: 經/禮.yaml
+.. __: 經/春秋.yaml
+.. __: 經/孝經.yaml
+.. __: 經/五經總義.yaml
+.. __: 經/四書.yaml
+.. __: 經/樂.yaml
+.. __: 經/小學.yaml
 
-.. __: 史/正史/README.rst
-.. __: 史/編年/README.rst
-.. __: 史/紀事本末/README.rst
-.. __: 史/別史/README.rst
-.. __: 史/雜史/README.rst
-.. __: 史/詔令奏議/README.rst
-.. __: 史/傳記/README.rst
-.. __: 史/史鈔/README.rst
-.. __: 史/載記/README.rst
-.. __: 史/時令/README.rst
-.. __: 史/地理/README.rst
-.. __: 史/職官/README.rst
-.. __: 史/政書/README.rst
-.. __: 史/目錄/README.rst
-.. __: 史/史評/README.rst
+.. __: 史/正史.yaml
+.. __: 史/編年.yaml
+.. __: 史/紀事本末.yaml
+.. __: 史/別史.yaml
+.. __: 史/雜史.yaml
+.. __: 史/詔令奏議.yaml
+.. __: 史/傳記.yaml
+.. __: 史/史鈔.yaml
+.. __: 史/載記.yaml
+.. __: 史/時令.yaml
+.. __: 史/地理.yaml
+.. __: 史/職官.yaml
+.. __: 史/政書.yaml
+.. __: 史/目錄.yaml
+.. __: 史/史評.yaml
 
-.. __: 子/儒家/README.rst
-.. __: 子/兵家/README.rst
-.. __: 子/法家/README.rst
-.. __: 子/農家/README.rst
-.. __: 子/醫家/README.rst
-.. __: 子/歷算/README.rst
-.. __: 子/術數/README.rst
-.. __: 子/藝術/README.rst
-.. __: 子/譜錄/README.rst
-.. __: 子/雜家/README.rst
-.. __: 子/類書/README.rst
-.. __: 子/小說家/README.rst
-.. __: 子/釋家/README.rst
-.. __: 子/道家/README.rst
+.. __: 子/儒家.yaml
+.. __: 子/兵家.yaml
+.. __: 子/法家.yaml
+.. __: 子/農家.yaml
+.. __: 子/醫家.yaml
+.. __: 子/天文算法.yaml
+.. __: 子/術數.yaml
+.. __: 子/藝術.yaml
+.. __: 子/譜錄.yaml
+.. __: 子/雜家.yaml
+.. __: 子/類書.yaml
+.. __: 子/小說家.yaml
+.. __: 子/釋家.yaml
+.. __: 子/道家.yaml
 
-.. __: 集/楚辭/README.rst
-.. __: 集/別集/README.rst
-.. __: 集/總集/README.rst
-.. __: 集/詩文評/README.rst
-.. __: 集/詞曲/README.rst
+.. __: 集/楚辭.yaml
+.. __: 集/別集.yaml
+.. __: 集/總集.yaml
+.. __: 集/詩文評.yaml
+.. __: 集/詞曲.yaml
 
 
 古籍
