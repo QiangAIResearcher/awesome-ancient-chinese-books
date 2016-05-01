@@ -10,6 +10,30 @@ null:
     文字: true
     影印: false
     简体: false
+  - 標題: Universal Library - 史通·卷一~卷四
+    網址: https://archive.org/details/06047794.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 史通·卷五~卷九
+    網址: https://archive.org/details/06047795.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 史通·卷十~卷十五
+    網址: https://archive.org/details/06047796.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 史通·卷十六~卷二十
+    網址: https://archive.org/details/06047797.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
 - 題目: 史通通釋
   朝代: 清
   作者: 浦起龍
@@ -32,6 +56,60 @@ null:
     文字: true
     影印: false
     简体: false
+  - 標題: Universal Library - 唐鑑·卷一~卷八
+    網址: https://archive.org/details/06047807.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 唐鑑·卷九~卷十四
+    網址: https://archive.org/details/06047808.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 唐鑑·卷十五~卷十九
+    網址: https://archive.org/details/06047809.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 唐鑑·卷二十~卷二十四
+    網址: https://archive.org/details/06047810.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 唐鑑·卷一~卷四
+    網址: https://archive.org/details/06072223.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 唐鑑·卷五~卷十
+    網址: https://archive.org/details/06072224.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 唐鑑·卷十一~卷十六
+    網址: https://archive.org/details/06072225.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 唐鑑·卷十七~卷二十
+    網址: https://archive.org/details/06072226.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 唐鑑·卷二十一~卷二十四
+    網址: https://archive.org/details/06072227.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
 - 題目: 唐史論斷
   朝代: 宋
   作者: 孫甫
@@ -42,6 +120,18 @@ null:
     限制: 无
     文字: true
     影印: false
+    简体: false
+  - 標題: Universal Library - 唐史論斷·卷上~卷中
+    網址: https://archive.org/details/06047811.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 唐史論斷·卷下
+    網址: https://archive.org/details/06047812.cn
+    限制: 无
+    文字: false
+    影印: true
     简体: false
 - 題目: 唐書直筆
   朝代: 宋
@@ -109,6 +199,18 @@ null:
     文字: true
     影印: false
     简体: false
+  - 標題: Universal Library - 六朝通鑑博議·卷一~卷五
+    網址: https://archive.org/details/06051730.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 六朝通鑑博議·卷六~卷十
+    網址: https://archive.org/details/06051731.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
 - 題目: 宋大事記講義
   朝代: 宋
   作者: 呂中
@@ -119,6 +221,36 @@ null:
     限制: 无
     文字: true
     影印: false
+    简体: false
+  - 標題: Universal Library - 宋大事記講義·卷一~卷四
+    網址: https://archive.org/details/06051732.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 宋大事記講義·卷五~卷八
+    網址: https://archive.org/details/06051733.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 宋大事記講義·卷九~卷十二
+    網址: https://archive.org/details/06051734.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 宋大事記講義·卷十三~卷十七
+    網址: https://archive.org/details/06051735.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 宋大事記講義·卷十八~卷二十三
+    網址: https://archive.org/details/06051736.cn
+    限制: 无
+    文字: false
+    影印: true
     简体: false
 - 題目: 兩漢筆記
   朝代: 宋
@@ -131,6 +263,30 @@ null:
     文字: true
     影印: false
     简体: false
+  - 標題: Universal Library - 兩漢筆記·卷一~卷三
+    網址: https://archive.org/details/06051737.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 兩漢筆記·卷四~卷六
+    網址: https://archive.org/details/06051738.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 兩漢筆記·卷七~卷九
+    網址: https://archive.org/details/06051739.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 兩漢筆記·卷十~卷十二
+    網址: https://archive.org/details/06051740.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
 - 題目: 舊聞證誤
   朝代: 宋
   作者: 李心傳
@@ -141,6 +297,18 @@ null:
     限制: 无
     文字: true
     影印: false
+    简体: false
+  - 標題: Universal Library - 舊聞證誤·卷一~卷二
+    網址: https://archive.org/details/06051741.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 舊聞證誤·卷三~卷四
+    網址: https://archive.org/details/06051742.cn
+    限制: 无
+    文字: false
+    影印: true
     简体: false
 - 題目: 通鑑答問
   朝代: 宋
@@ -153,6 +321,24 @@ null:
     文字: true
     影印: false
     简体: false
+  - 標題: Universal Library - 通鑑答問·卷一~卷二
+    網址: https://archive.org/details/06051743.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 通鑑答問·卷三
+    網址: https://archive.org/details/06051744.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 通鑑答問·卷四~卷五
+    網址: https://archive.org/details/06051745.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
 - 題目: 歷代名賢確論
   朝代: 宋
   作者: 闕名
@@ -163,6 +349,132 @@ null:
     限制: 无
     文字: true
     影印: false
+    简体: false
+  - 標題: Universal Library - 歷代名賢確論·卷一~卷六
+    網址: https://archive.org/details/06047814.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 歷代名賢確論·卷七~卷十二
+    網址: https://archive.org/details/06047815.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 歷代名賢確論·卷十三~卷十八
+    網址: https://archive.org/details/06047816.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 歷代名賢確論·卷十九~卷二十三
+    網址: https://archive.org/details/06047817.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 歷代名賢確論·卷二十四~卷二十八
+    網址: https://archive.org/details/06047818.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 歷代名賢確論·卷二十九~卷三十三
+    網址: https://archive.org/details/06047819.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 歷代名賢確論·卷三十四~卷三十七
+    網址: https://archive.org/details/06047820.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 歷代名賢確論·卷三十八~卷四十
+    網址: https://archive.org/details/06047821.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 歷代名賢確論·卷四十一~卷四十四
+    網址: https://archive.org/details/06047822.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 歷代名賢確論·卷四十五~卷四十八
+    網址: https://archive.org/details/06047823.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 歷代名賢確論·卷四十九~卷五十三
+    網址: https://archive.org/details/06047824.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 歷代名賢確論·卷五十四~卷五十八
+    網址: https://archive.org/details/06047825.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 歷代名賢確論·卷五十九~卷六十四
+    網址: https://archive.org/details/06047826.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 歷代名賢確論·卷六十五~卷六十九
+    網址: https://archive.org/details/06047827.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 歷代名賢確論·卷七十~卷七十三
+    網址: https://archive.org/details/06047828.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 歷代名賢確論·卷七十四~卷七十八
+    網址: https://archive.org/details/06047829.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 歷代名賢確論·卷七十~卷八十二
+    網址: https://archive.org/details/06047830.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 歷代名賢確論·卷八十三~卷八十六
+    網址: https://archive.org/details/06047831.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 歷代名賢確論·卷八十七~卷九十一
+    網址: https://archive.org/details/06047832.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 歷代名賢確論·卷九十二~卷九十六
+    網址: https://archive.org/details/06047833.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 歷代名賢確論·卷九十七~卷一百
+    網址: https://archive.org/details/06047834.cn
+    限制: 无
+    文字: false
+    影印: true
     简体: false
 - 題目: 歷代通略
   朝代: 元
@@ -197,6 +509,24 @@ null:
     文字: true
     影印: false
     简体: false
+  - 標題: Universal Library - 學史·卷一~卷五
+    網址: https://archive.org/details/06051755.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 學史·卷六~卷十
+    網址: https://archive.org/details/06051756.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 學史·卷十一~卷十三
+    網址: https://archive.org/details/06051757.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
 - 題目: 史糾
   朝代: 明
   作者: 朱明鎬
@@ -207,6 +537,18 @@ null:
     限制: 无
     文字: true
     影印: false
+    简体: false
+  - 標題: Universal Library - 史糾·卷一~卷二
+    網址: https://archive.org/details/06051758.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 史糾·卷三~卷六
+    網址: https://archive.org/details/06051759.cn
+    限制: 无
+    文字: false
+    影印: true
     简体: false
 - 題目: 御批資治通鑑綱目
   朝代: 宋
@@ -219,6 +561,492 @@ null:
     文字: true
     影印: false
     简体: false
+  - 標題: Universal Library - 御批資治通鑑綱目·卷首上
+    網址: https://archive.org/details/06046555.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御批資治通鑑綱目·卷首下
+    網址: https://archive.org/details/06046556.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御批資治通鑑綱目·卷一上
+    網址: https://archive.org/details/06046557.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御批資治通鑑綱目·卷一下
+    網址: https://archive.org/details/06046558.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御批資治通鑑綱目·卷二上
+    網址: https://archive.org/details/06046559.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御批資治通鑑綱目·卷二下
+    網址: https://archive.org/details/06046560.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御批資治通鑑綱目·卷三上
+    網址: https://archive.org/details/06046561.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御批資治通鑑綱目·卷三下
+    網址: https://archive.org/details/06046562.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御批資治通鑑綱目·卷四上
+    網址: https://archive.org/details/06046563.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御批資治通鑑綱目·卷四下
+    網址: https://archive.org/details/06046564.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御批資治通鑑綱目·卷五上
+    網址: https://archive.org/details/06046565.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御批資治通鑑綱目·卷五下
+    網址: https://archive.org/details/06046566.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御批資治通鑑綱目·卷六
+    網址: https://archive.org/details/06046567.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御批資治通鑑綱目·卷七
+    網址: https://archive.org/details/06046568.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御批資治通鑑綱目·卷八上
+    網址: https://archive.org/details/06046569.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御批資治通鑑綱目·卷八下
+    網址: https://archive.org/details/06046570.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御批資治通鑑綱目·卷九上
+    網址: https://archive.org/details/06046571.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御批資治通鑑綱目·卷九下
+    網址: https://archive.org/details/06046572.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御批資治通鑑綱目·卷十上
+    網址: https://archive.org/details/06046573.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御批資治通鑑綱目·卷十下
+    網址: https://archive.org/details/06046574.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御批資治通鑑綱目·卷十一
+    網址: https://archive.org/details/06046575.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御批資治通鑑綱目·卷十二上
+    網址: https://archive.org/details/06046576.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御批資治通鑑綱目·卷十二下
+    網址: https://archive.org/details/06046577.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御批資治通鑑綱目·卷十三
+    網址: https://archive.org/details/06046578.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御批資治通鑑綱目·卷十四
+    網址: https://archive.org/details/06046579.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御批資治通鑑綱目·卷十五
+    網址: https://archive.org/details/06046580.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御批資治通鑑綱目·卷十六
+    網址: https://archive.org/details/06046581.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御批資治通鑑綱目·卷十七
+    網址: https://archive.org/details/06046582.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御批資治通鑑綱目·卷十八
+    網址: https://archive.org/details/06046583.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御批資治通鑑綱目·卷十九
+    網址: https://archive.org/details/06046584.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御批資治通鑑綱目·卷二十
+    網址: https://archive.org/details/06046585.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御批資治通鑑綱目·卷二十一
+    網址: https://archive.org/details/06046586.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御批資治通鑑綱目·卷二十二
+    網址: https://archive.org/details/06046587.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御批資治通鑑綱目·卷二十三
+    網址: https://archive.org/details/06046588.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御批資治通鑑綱目·卷二十四
+    網址: https://archive.org/details/06046589.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御批資治通鑑綱目·卷二十五上
+    網址: https://archive.org/details/06046590.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御批資治通鑑綱目·卷二十五下
+    網址: https://archive.org/details/06046591.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御批資治通鑑綱目·卷二十六
+    網址: https://archive.org/details/06046592.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御批資治通鑑綱目·卷二十七
+    網址: https://archive.org/details/06046593.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御批資治通鑑綱目·卷二十八
+    網址: https://archive.org/details/06046594.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御批資治通鑑綱目·卷二十九
+    網址: https://archive.org/details/06046595.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御批資治通鑑綱目·卷三十
+    網址: https://archive.org/details/06046596.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御批資治通鑑綱目·卷三十一
+    網址: https://archive.org/details/06046597.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御批資治通鑑綱目·卷三十二
+    網址: https://archive.org/details/06046598.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御批資治通鑑綱目·卷三十三
+    網址: https://archive.org/details/06046599.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御批資治通鑑綱目·卷三十四
+    網址: https://archive.org/details/06046600.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御批資治通鑑綱目·卷三十五
+    網址: https://archive.org/details/06046601.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御批資治通鑑綱目·卷三十六上
+    網址: https://archive.org/details/06046602.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御批資治通鑑綱目·卷三十六下
+    網址: https://archive.org/details/06046603.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御批資治通鑑綱目·卷三十七上~卷三十七下
+    網址: https://archive.org/details/06046604.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御批資治通鑑綱目·卷三十八
+    網址: https://archive.org/details/06046605.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御批資治通鑑綱目·卷三十九上
+    網址: https://archive.org/details/06046606.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御批資治通鑑綱目·卷三十九下
+    網址: https://archive.org/details/06046607.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御批資治通鑑綱目·卷四十
+    網址: https://archive.org/details/06046608.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御批資治通鑑綱目·卷四十一上
+    網址: https://archive.org/details/06046609.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御批資治通鑑綱目·卷四十一下
+    網址: https://archive.org/details/06046610.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御批資治通鑑綱目·卷四十二上
+    網址: https://archive.org/details/06046611.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御批資治通鑑綱目·卷四十二下
+    網址: https://archive.org/details/06046612.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御批資治通鑑綱目·卷四十三上
+    網址: https://archive.org/details/06046613.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御批資治通鑑綱目·卷四十三下
+    網址: https://archive.org/details/06046614.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御批資治通鑑綱目·卷四十四上
+    網址: https://archive.org/details/06046615.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御批資治通鑑綱目·卷四十四下
+    網址: https://archive.org/details/06046616.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御批資治通鑑綱目·卷四十五上
+    網址: https://archive.org/details/06046617.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御批資治通鑑綱目·卷四十五下
+    網址: https://archive.org/details/06046618.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御批資治通鑑綱目·卷四十六
+    網址: https://archive.org/details/06046619.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御批資治通鑑綱目·卷四十七上
+    網址: https://archive.org/details/06046620.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御批資治通鑑綱目·卷四十七下
+    網址: https://archive.org/details/06046621.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御批資治通鑑綱目·卷四十八
+    網址: https://archive.org/details/06046622.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御批資治通鑑綱目·卷四十九上
+    網址: https://archive.org/details/06046623.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御批資治通鑑綱目·卷四十九下
+    網址: https://archive.org/details/06046624.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御批資治通鑑綱目·卷五十上
+    網址: https://archive.org/details/06046625.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御批資治通鑑綱目·卷五十下
+    網址: https://archive.org/details/06046626.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御批資治通鑑綱目·卷五十一
+    網址: https://archive.org/details/06046627.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御批資治通鑑綱目·卷五十二
+    網址: https://archive.org/details/06046628.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御批資治通鑑綱目·卷五十三
+    網址: https://archive.org/details/06046629.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御批資治通鑑綱目·卷五十四
+    網址: https://archive.org/details/06046630.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御批資治通鑑綱目·卷五十五
+    網址: https://archive.org/details/06046631.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御批資治通鑑綱目·卷五十六
+    網址: https://archive.org/details/06046632.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御批資治通鑑綱目·卷五十七
+    網址: https://archive.org/details/06046633.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御批資治通鑑綱目·卷五十八
+    網址: https://archive.org/details/06046634.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御批資治通鑑綱目·卷五十九
+    網址: https://archive.org/details/06046635.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
 - 題目: 御批資治通鑑綱目前編
   朝代: 元
   作者: 金履祥
@@ -229,6 +1057,102 @@ null:
     限制: 无
     文字: true
     影印: false
+    简体: false
+  - 標題: Universal Library - 御批資治通鑑綱目前編·卷首
+    網址: https://archive.org/details/06046636.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御批資治通鑑綱目前編·卷一
+    網址: https://archive.org/details/06046637.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御批資治通鑑綱目前編·卷二~卷三
+    網址: https://archive.org/details/06046638.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御批資治通鑑綱目前編·卷四
+    網址: https://archive.org/details/06046639.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御批資治通鑑綱目前編·卷五
+    網址: https://archive.org/details/06046640.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御批資治通鑑綱目前編·卷六
+    網址: https://archive.org/details/06046641.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御批資治通鑑綱目前編·卷七
+    網址: https://archive.org/details/06046642.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御批資治通鑑綱目前編·卷八
+    網址: https://archive.org/details/06046643.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御批資治通鑑綱目前編·卷九
+    網址: https://archive.org/details/06046644.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御批資治通鑑綱目前編·卷十
+    網址: https://archive.org/details/06046645.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御批資治通鑑綱目前編·卷十一
+    網址: https://archive.org/details/06046646.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御批資治通鑑綱目前編·卷十二~卷十三
+    網址: https://archive.org/details/06046647.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御批資治通鑑綱目前編·卷十四~卷十五
+    網址: https://archive.org/details/06046648.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御批資治通鑑綱目前編·卷十六
+    網址: https://archive.org/details/06046649.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御批資治通鑑綱目前編·卷十七
+    網址: https://archive.org/details/06046650.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御批資治通鑑綱目前編·卷十八
+    網址: https://archive.org/details/06046651.cn
+    限制: 无
+    文字: false
+    影印: true
     简体: false
 - 題目: 御批續資治通鑑綱目
   朝代: 明
@@ -241,6 +1165,174 @@ null:
     文字: true
     影印: false
     简体: false
+  - 標題: Universal Library - 御批續資治通鑑綱目·卷一
+    網址: https://archive.org/details/06046654.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御批續資治通鑑綱目·卷二
+    網址: https://archive.org/details/06046655.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御批續資治通鑑綱目·卷三
+    網址: https://archive.org/details/06046656.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御批續資治通鑑綱目·卷四
+    網址: https://archive.org/details/06046657.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御批續資治通鑑綱目·卷五
+    網址: https://archive.org/details/06046658.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御批續資治通鑑綱目·卷六
+    網址: https://archive.org/details/06046659.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御批續資治通鑑綱目·卷七
+    網址: https://archive.org/details/06046660.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御批續資治通鑑綱目·卷八
+    網址: https://archive.org/details/06046661.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御批續資治通鑑綱目·卷九
+    網址: https://archive.org/details/06046662.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御批續資治通鑑綱目·卷十
+    網址: https://archive.org/details/06046663.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御批續資治通鑑綱目·卷十一
+    網址: https://archive.org/details/06046664.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御批續資治通鑑綱目·卷十二
+    網址: https://archive.org/details/06046665.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御批續資治通鑑綱目·卷十三
+    網址: https://archive.org/details/06046666.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御批續資治通鑑綱目·卷十四
+    網址: https://archive.org/details/06046667.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御批續資治通鑑綱目·卷十五
+    網址: https://archive.org/details/06046668.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御批續資治通鑑綱目·卷十六
+    網址: https://archive.org/details/06046669.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御批續資治通鑑綱目·卷十七
+    網址: https://archive.org/details/06046670.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御批續資治通鑑綱目·卷十八
+    網址: https://archive.org/details/06046671.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御批續資治通鑑綱目·卷十九
+    網址: https://archive.org/details/06046672.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御批續資治通鑑綱目·卷二十
+    網址: https://archive.org/details/06046673.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御批續資治通鑑綱目·卷二十一
+    網址: https://archive.org/details/06046674.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御批續資治通鑑綱目·卷二十二
+    網址: https://archive.org/details/06046675.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御批續資治通鑑綱目·卷二十三
+    網址: https://archive.org/details/06046676.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御批續資治通鑑綱目·卷二十四
+    網址: https://archive.org/details/06046677.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御批續資治通鑑綱目·卷二十五
+    網址: https://archive.org/details/06046678.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御批續資治通鑑綱目·卷二十六
+    網址: https://archive.org/details/06046679.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御批續資治通鑑綱目·卷二十七
+    網址: https://archive.org/details/06046680.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御批續資治通鑑綱目·卷十八~十九
+    網址: https://archive.org/details/06078279.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
 - 題目: 評鑑闡要
   朝代: 清
   作者: 高宗弘曆
@@ -252,8 +1344,44 @@ null:
     文字: true
     影印: false
     简体: false
+  - 標題: Universal Library - 評鑑闡要·卷一~卷二
+    網址: https://archive.org/details/06072228.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 評鑑闡要·卷三~卷五
+    網址: https://archive.org/details/06072229.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 評鑑闡要·卷六~卷八
+    網址: https://archive.org/details/06072230.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 評鑑闡要·卷九~卷十二
+    網址: https://archive.org/details/06072231.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
 - 題目: 欽定古今儲貳金鑑
   朝代: null
   作者: null
   維基: null
-  資料: []
+  資料:
+  - 標題: Universal Library - 欽定古今儲貳金鑑·卷一~卷二
+    網址: https://archive.org/details/06049687.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 欽定古今儲貳金鑑·卷三~卷六
+    網址: https://archive.org/details/06049688.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false

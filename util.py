@@ -32,10 +32,12 @@ def dump(data, stream=None):
 
 
 def loadf(filename):
+    print 'load', filename
     with open(filename,'r') as f:
         return load(f)
 
 def dumpf(data, filename):
+    print 'save', filename
     with open(filename,'w') as f:
         return dump(data, f)
 

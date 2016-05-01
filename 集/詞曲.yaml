@@ -65,6 +65,12 @@
     文字: true
     影印: false
     简体: false
+  - 標題: Universal Library - 山谷詞
+    網址: https://archive.org/details/06073806.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
 - 題目: 淮海詞
   朝代: 宋
   作者: 秦觀
@@ -387,6 +393,30 @@
     文字: true
     影印: false
     简体: false
+  - 標題: Universal Library - 稼軒詞·卷一
+    網址: https://archive.org/details/06070361.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 稼軒詞·卷二
+    網址: https://archive.org/details/06070362.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 稼軒詞·卷三
+    網址: https://archive.org/details/06070363.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 稼軒詞·卷四
+    網址: https://archive.org/details/06070364.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
 - 題目: 西樵語業
   朝代: 宋
   作者: 楊炎正
@@ -475,6 +505,18 @@
     文字: true
     影印: false
     简体: false
+  - 標題: Universal Library - 夢窗稿·卷一
+    網址: https://archive.org/details/06070370.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 夢窗稿·卷二~卷四
+    網址: https://archive.org/details/06070371.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
 - 題目: 惜香樂府
   朝代: 宋
   作者: 趙長卿
@@ -485,6 +527,18 @@
     限制: 无
     文字: true
     影印: false
+    简体: false
+  - 標題: Universal Library - 惜香樂府·卷一~卷五
+    網址: https://archive.org/details/06070372.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 惜香樂府·卷六~卷十
+    網址: https://archive.org/details/06070373.cn
+    限制: 无
+    文字: false
+    影印: true
     简体: false
 - 題目: 龍洲詞
   朝代: 宋
@@ -512,7 +566,19 @@
   朝代: null
   作者: null
   維基: null
-  資料: []
+  資料:
+  - 標題: Universal Library - 山中白雲詞·卷一~卷三
+    網址: https://archive.org/details/06070376.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 山中白雲詞·卷四~卷八
+    網址: https://archive.org/details/06070377.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
 - 題目: 竹山詞
   朝代: 宋
   作者: 蔣捷
@@ -617,7 +683,19 @@
   朝代: null
   作者: null
   維基: null
-  資料: []
+  資料:
+  - 標題: Universal Library - 花間集·卷一~卷五
+    網址: https://archive.org/details/06069335.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 花間集·卷六~卷十
+    網址: https://archive.org/details/06069336.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
 - 題目: 尊前集
   朝代: null
   作者: 闕名
@@ -651,6 +729,24 @@
     文字: true
     影印: false
     简体: false
+  - 標題: Universal Library - 樂府雅詞·卷上
+    網址: https://archive.org/details/06069340.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 樂府雅詞·卷中
+    網址: https://archive.org/details/06069341.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 樂府雅詞·卷下
+    網址: https://archive.org/details/06069342.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
 - 題目: 花菴詞選
   朝代: 宋
   作者: 黃昇
@@ -661,6 +757,24 @@
     限制: 无
     文字: true
     影印: false
+    简体: false
+  - 標題: Universal Library - 花菴詞選·卷一~卷三
+    網址: https://archive.org/details/06069344.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 花菴詞選·卷四~卷七
+    網址: https://archive.org/details/06069345.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 花菴詞選·卷八~卷十
+    網址: https://archive.org/details/06069346.cn
+    限制: 无
+    文字: false
+    影印: true
     简体: false
 - 題目: 草堂詩餘
   朝代: null
@@ -677,6 +791,24 @@
     限制: 无
     文字: true
     影印: false
+    简体: false
+  - 標題: Universal Library - 絕妙好詞箋·卷一~卷二
+    網址: https://archive.org/details/06069354.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 絕妙好詞箋·卷三~卷四
+    網址: https://archive.org/details/06069355.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 絕妙好詞箋·卷五~卷七
+    網址: https://archive.org/details/06069356.cn
+    限制: 无
+    文字: false
+    影印: true
     简体: false
 - 題目: 樂府補題
   朝代: 宋
@@ -705,6 +837,588 @@
     文字: true
     影印: false
     简体: false
+  - 標題: Universal Library - 御選歷代詩餘·卷九十八~卷一百
+    網址: https://archive.org/details/06074945.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御選歷代詩餘·卷一百一~卷一百七
+    網址: https://archive.org/details/06074946.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御選歷代詩餘·卷一百八~卷一百十三
+    網址: https://archive.org/details/06074947.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御選歷代詩餘·卷一百十四~卷一百十七
+    網址: https://archive.org/details/06074948.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御選歷代詩餘·卷一百十八~卷一百二十
+    網址: https://archive.org/details/06074949.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御選歷代詩餘·卷一
+    網址: https://archive.org/details/06075001.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御選歷代詩餘·卷二~卷三
+    網址: https://archive.org/details/06075002.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御選歷代詩餘·卷四~卷六
+    網址: https://archive.org/details/06075003.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御選歷代詩餘·卷七~卷八
+    網址: https://archive.org/details/06075004.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御選歷代詩餘·卷九
+    網址: https://archive.org/details/06075005.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御選歷代詩餘·卷十~卷十一
+    網址: https://archive.org/details/06075006.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御選歷代詩餘·卷十二~卷十三
+    網址: https://archive.org/details/06075007.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御選歷代詩餘·卷十四~卷十五
+    網址: https://archive.org/details/06075008.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御選歷代詩餘·卷十六~卷十七
+    網址: https://archive.org/details/06075009.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御選歷代詩餘·卷十八~卷十九
+    網址: https://archive.org/details/06075010.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御選歷代詩餘·卷二十~卷二十一
+    網址: https://archive.org/details/06075011.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御選歷代詩餘·卷二十二~卷二十三
+    網址: https://archive.org/details/06075012.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御選歷代詩餘·卷二十四~卷二十五
+    網址: https://archive.org/details/06075013.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御選歷代詩餘·卷二十六~卷二十七
+    網址: https://archive.org/details/06075014.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御選歷代詩餘·卷二十八~卷二十九
+    網址: https://archive.org/details/06075015.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御選歷代詩餘·卷三十~卷三十二
+    網址: https://archive.org/details/06075016.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御選歷代詩餘·卷三十三~卷三十四
+    網址: https://archive.org/details/06075017.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御選歷代詩餘·卷三十五~卷三十六
+    網址: https://archive.org/details/06075018.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御選歷代詩餘·卷三十七~卷三十八
+    網址: https://archive.org/details/06075019.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御選歷代詩餘·卷三十九~卷四十一
+    網址: https://archive.org/details/06075020.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御選歷代詩餘·卷四十二~卷四十三
+    網址: https://archive.org/details/06075021.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御選歷代詩餘·卷四十四~卷四十五
+    網址: https://archive.org/details/06075022.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御選歷代詩餘·卷四十六~卷四十七
+    網址: https://archive.org/details/06075023.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御選歷代詩餘·卷四十八~卷四十九
+    網址: https://archive.org/details/06075024.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御選歷代詩餘·卷五十~卷五十二
+    網址: https://archive.org/details/06075025.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御選歷代詩餘·卷五十三~卷五十四
+    網址: https://archive.org/details/06075026.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御選歷代詩餘·卷五十五~卷五十六
+    網址: https://archive.org/details/06075027.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御選歷代詩餘·卷五十七~卷五十九
+    網址: https://archive.org/details/06075028.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御選歷代詩餘·卷六十~卷六十二
+    網址: https://archive.org/details/06075029.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御選歷代詩餘·卷六十三~卷六十五
+    網址: https://archive.org/details/06075030.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御選歷代詩餘·卷六十六~卷六十八
+    網址: https://archive.org/details/06075031.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御選歷代詩餘·卷六十九~卷七十一
+    網址: https://archive.org/details/06075032.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御選歷代詩餘·卷七十二~卷七十四
+    網址: https://archive.org/details/06075033.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御選歷代詩餘·卷七十五~卷七十七
+    網址: https://archive.org/details/06075034.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御選歷代詩餘·卷七十八~卷八十
+    網址: https://archive.org/details/06075035.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御選歷代詩餘·卷八十一~卷八十三
+    網址: https://archive.org/details/06075036.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御選歷代詩餘·卷八十四~卷八十六
+    網址: https://archive.org/details/06075037.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御選歷代詩餘·卷八十七~卷九十
+    網址: https://archive.org/details/06075038.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御選歷代詩餘·卷九十一~卷九十四
+    網址: https://archive.org/details/06075039.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御選歷代詩餘·卷九十五~卷九十七
+    網址: https://archive.org/details/06075040.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御選歷代詩餘·卷二
+    網址: https://archive.org/details/06069381.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御選歷代詩餘·卷三~卷四
+    網址: https://archive.org/details/06069382.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御選歷代詩餘·卷五~卷六
+    網址: https://archive.org/details/06069383.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御選歷代詩餘·卷七
+    網址: https://archive.org/details/06069384.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御選歷代詩餘·卷八
+    網址: https://archive.org/details/06069385.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御選歷代詩餘·卷十
+    網址: https://archive.org/details/06069387.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御選歷代詩餘·卷十一~卷十二
+    網址: https://archive.org/details/06069388.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御選歷代詩餘·卷十三~卷十四
+    網址: https://archive.org/details/06069389.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御選歷代詩餘·卷十五~卷十六
+    網址: https://archive.org/details/06069390.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御選歷代詩餘·卷十七~卷十八
+    網址: https://archive.org/details/06069391.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御選歷代詩餘·卷十九
+    網址: https://archive.org/details/06069392.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御選歷代詩餘·卷三十~卷三十一
+    網址: https://archive.org/details/06069398.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御選歷代詩餘·卷三十二~卷三十三
+    網址: https://archive.org/details/06069399.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御選歷代詩餘·卷三十四~卷三十五
+    網址: https://archive.org/details/06069400.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御選歷代詩餘·卷三十六~卷三十七
+    網址: https://archive.org/details/06069401.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御選歷代詩餘·卷三十八
+    網址: https://archive.org/details/06069402.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御選歷代詩餘·卷三十九~卷四十
+    網址: https://archive.org/details/06069403.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御選歷代詩餘·卷四十一~卷四十二
+    網址: https://archive.org/details/06069404.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御選歷代詩餘·卷四十三~卷四十四
+    網址: https://archive.org/details/06069405.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御選歷代詩餘·卷四十五~卷四十六
+    網址: https://archive.org/details/06069406.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御選歷代詩餘·卷四十七~卷四十八
+    網址: https://archive.org/details/06069407.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御選歷代詩餘·卷四十九~卷五十
+    網址: https://archive.org/details/06069408.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御選歷代詩餘·卷五十一~卷五十二
+    網址: https://archive.org/details/06069409.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御選歷代詩餘·卷五十三
+    網址: https://archive.org/details/06069410.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御選歷代詩餘·卷五十四~卷五十五
+    網址: https://archive.org/details/06069411.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御選歷代詩餘·卷五十六~卷五十七
+    網址: https://archive.org/details/06069412.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御選歷代詩餘·卷五十八~卷五十九
+    網址: https://archive.org/details/06069413.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御選歷代詩餘·卷六十~卷六十一
+    網址: https://archive.org/details/06069414.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御選歷代詩餘·卷六十二~卷六十三
+    網址: https://archive.org/details/06069415.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御選歷代詩餘·卷六十四~卷六十五
+    網址: https://archive.org/details/06069416.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御選歷代詩餘·卷六十六~卷六十七
+    網址: https://archive.org/details/06069417.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御選歷代詩餘·卷六十八~卷六十九
+    網址: https://archive.org/details/06069418.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御選歷代詩餘·卷七十~卷七十一
+    網址: https://archive.org/details/06069419.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御選歷代詩餘·卷七十二~卷七十三
+    網址: https://archive.org/details/06069420.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御選歷代詩餘·卷七十四~卷七十五
+    網址: https://archive.org/details/06069421.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御選歷代詩餘·卷七十六~卷七十八
+    網址: https://archive.org/details/06069422.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御選歷代詩餘·卷七十九~卷八十
+    網址: https://archive.org/details/06069423.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御選歷代詩餘·卷八十一~卷八十二
+    網址: https://archive.org/details/06069424.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御選歷代詩餘·卷八十三~卷八十四
+    網址: https://archive.org/details/06069425.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御選歷代詩餘·卷八十五~卷八十六
+    網址: https://archive.org/details/06069426.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御選歷代詩餘·卷八十七~卷八十八
+    網址: https://archive.org/details/06069427.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御選歷代詩餘·卷八十九~卷九十一
+    網址: https://archive.org/details/06069428.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御選歷代詩餘·卷九十二~卷九十四
+    網址: https://archive.org/details/06069429.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御選歷代詩餘·卷九十五~卷九十六
+    網址: https://archive.org/details/06069430.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御選歷代詩餘·卷九十七~卷九十九
+    網址: https://archive.org/details/06069431.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御選歷代詩餘·卷一百~卷一百三
+    網址: https://archive.org/details/06069432.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御選歷代詩餘·卷一百四~卷一百九
+    網址: https://archive.org/details/06069433.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御選歷代詩餘·卷一百十~卷一百十二
+    網址: https://archive.org/details/06069434.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御選歷代詩餘·卷一百十三~卷一百十五
+    網址: https://archive.org/details/06069435.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御選歷代詩餘·卷一百十六~卷一百十七
+    網址: https://archive.org/details/06069436.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御選歷代詩餘·卷一百十八~卷一百十九
+    網址: https://archive.org/details/06069437.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御選歷代詩餘·卷一百二十
+    網址: https://archive.org/details/06069438.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
 - 題目: 詞綜
   朝代: 清
   作者: 朱彝尊
@@ -716,6 +1430,150 @@
     文字: true
     影印: false
     简体: false
+  - 標題: Universal Library - 詞綜·卷一~卷三
+    網址: https://archive.org/details/06082403.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 詞綜·卷四~卷七
+    網址: https://archive.org/details/06082404.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 詞綜·卷八~卷十一
+    網址: https://archive.org/details/06082405.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 詞綜·卷十二~卷十五
+    網址: https://archive.org/details/06082406.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 詞綜·卷十六~卷十九
+    網址: https://archive.org/details/06082407.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 詞綜·卷二十~卷二十三
+    網址: https://archive.org/details/06082408.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 詞綜·卷二十四~卷二十七
+    網址: https://archive.org/details/06082409.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 詞綜·卷二十八~卷三十
+    網址: https://archive.org/details/06082410.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 詞綜·卷四~卷六
+    網址: https://archive.org/details/06069440.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 詞綜·卷七~卷九
+    網址: https://archive.org/details/06069441.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 詞綜·卷十~卷十二
+    網址: https://archive.org/details/06069442.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 詞綜·卷十三~卷十五
+    網址: https://archive.org/details/06069443.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 詞綜·卷十六~卷十八
+    網址: https://archive.org/details/06069444.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 詞綜·卷十九~卷二十一
+    網址: https://archive.org/details/06069445.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 詞綜·卷二十二~卷二十四
+    網址: https://archive.org/details/06069446.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 詞綜·卷二十五~卷二十七
+    網址: https://archive.org/details/06069447.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 詞綜·卷一~卷四
+    網址: https://archive.org/details/06074950.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 詞綜·卷五~卷八
+    網址: https://archive.org/details/06074951.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 詞綜·卷九~卷十二
+    網址: https://archive.org/details/06074952.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 詞綜·卷十三~卷十六
+    網址: https://archive.org/details/06074953.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 詞綜·卷十七~卷二十
+    網址: https://archive.org/details/06074954.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 詞綜·卷二十一~卷二十五
+    網址: https://archive.org/details/06074955.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 詞綜·卷二十六~卷二十八
+    網址: https://archive.org/details/06074956.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 詞綜·卷二十九~卷三十
+    網址: https://archive.org/details/06074957.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
 - 題目: 十五家詞
   朝代: 清
   作者: 孫默
@@ -726,6 +1584,96 @@
     限制: 无
     文字: true
     影印: false
+    简体: false
+  - 標題: Universal Library - 十五家詞·卷一~卷三
+    網址: https://archive.org/details/06070386.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 十五家詞·卷四~卷六
+    網址: https://archive.org/details/06070387.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 十五家詞·卷七~卷八
+    網址: https://archive.org/details/06070388.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 十五家詞·卷九~卷十
+    網址: https://archive.org/details/06070389.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 十五家詞·卷十一~卷十二
+    網址: https://archive.org/details/06070390.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 十五家詞·卷十三~卷十四
+    網址: https://archive.org/details/06070391.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 十五家詞·卷十五~卷十七
+    網址: https://archive.org/details/06070392.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 十五家詞·卷十八~卷十九
+    網址: https://archive.org/details/06070393.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 十五家詞·卷二十~卷二十一
+    網址: https://archive.org/details/06070394.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 十五家詞·卷二十二~卷二十三
+    網址: https://archive.org/details/06070395.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 十五家詞·卷二十四~卷二十六
+    網址: https://archive.org/details/06070396.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 十五家詞·卷二十七~卷二十九
+    網址: https://archive.org/details/06070397.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 十五家詞·卷三十~卷三十二
+    網址: https://archive.org/details/06070398.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 十五家詞·卷三十三~卷三十五
+    網址: https://archive.org/details/06070399.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 十五家詞·卷三十六~卷三十七
+    網址: https://archive.org/details/06070400.cn
+    限制: 无
+    文字: false
+    影印: true
     简体: false
 詞話之屬:
 - 題目: 碧雞漫志
@@ -765,6 +1713,36 @@
     文字: true
     影印: false
     简体: false
+  - 標題: Universal Library - 詞苑叢談·卷一~卷二
+    網址: https://archive.org/details/06070405.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 詞苑叢談·卷三~卷五
+    網址: https://archive.org/details/06070406.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 詞苑叢談·卷六~卷七
+    網址: https://archive.org/details/06070407.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 詞苑叢談·卷八~卷九
+    網址: https://archive.org/details/06070408.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 詞苑叢談·卷十~卷十二
+    網址: https://archive.org/details/06070409.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
 詞譜詞韻之屬:
 - 題目: 御定詞譜
   朝代: 清
@@ -777,6 +1755,222 @@
     文字: true
     影印: false
     简体: false
+  - 標題: Universal Library - 御定詞譜·卷一~卷二
+    網址: https://archive.org/details/06074927.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御定詞譜·卷三~卷五
+    網址: https://archive.org/details/06074928.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御定詞譜·卷六~卷七
+    網址: https://archive.org/details/06074929.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御定詞譜·卷八~卷九
+    網址: https://archive.org/details/06074930.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御定詞譜·卷十~卷十一
+    網址: https://archive.org/details/06074931.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御定詞譜·卷十二~卷十三
+    網址: https://archive.org/details/06074932.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御定詞譜·卷十四~卷十六
+    網址: https://archive.org/details/06074933.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御定詞譜·卷十七~卷十九
+    網址: https://archive.org/details/06074934.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御定詞譜·卷二十~卷二十一
+    網址: https://archive.org/details/06074935.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御定詞譜·卷二十二~卷二十三
+    網址: https://archive.org/details/06074936.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御定詞譜·卷二十四~卷二十五
+    網址: https://archive.org/details/06074937.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御定詞譜·卷二十六~卷二十七
+    網址: https://archive.org/details/06074938.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御定詞譜·卷二十八~卷二十九
+    網址: https://archive.org/details/06074939.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御定詞譜·卷三十~卷三十一
+    網址: https://archive.org/details/06074940.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御定詞譜·卷三十二~卷三十三
+    網址: https://archive.org/details/06074941.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御定詞譜·卷三十四~卷三十五
+    網址: https://archive.org/details/06074942.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御定詞譜·卷三十六~卷三十七
+    網址: https://archive.org/details/06074943.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御定詞譜·卷三十八~卷四十
+    網址: https://archive.org/details/06074944.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御定詞譜·卷三~卷四
+    網址: https://archive.org/details/06069450.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御定詞譜·卷五~卷六
+    網址: https://archive.org/details/06069451.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御定詞譜·卷七~卷八
+    網址: https://archive.org/details/06069452.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御定詞譜·卷九~卷十
+    網址: https://archive.org/details/06069453.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御定詞譜·卷十一~卷十二
+    網址: https://archive.org/details/06069454.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御定詞譜·卷十三~卷十四
+    網址: https://archive.org/details/06069455.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御定詞譜·卷十五~卷十六
+    網址: https://archive.org/details/06069456.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御定詞譜·卷十七~卷十八
+    網址: https://archive.org/details/06069457.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御定詞譜·卷十九~卷二十
+    網址: https://archive.org/details/06069458.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御定詞譜·卷二十一~卷二十二
+    網址: https://archive.org/details/06069459.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御定詞譜·卷二十三~卷二十四
+    網址: https://archive.org/details/06069460.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御定詞譜·卷二十五~卷二十六
+    網址: https://archive.org/details/06069461.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御定詞譜·卷二十七~卷二十八
+    網址: https://archive.org/details/06069462.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御定詞譜·卷二十九
+    網址: https://archive.org/details/06069463.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御定詞譜·卷三十
+    網址: https://archive.org/details/06069464.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御定詞譜·卷三十一~卷三十二
+    網址: https://archive.org/details/06069465.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御定詞譜·卷三十三~卷三十四
+    網址: https://archive.org/details/06069466.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御定詞譜·卷三十五
+    網址: https://archive.org/details/06069467.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
 - 題目: 詞律
   朝代: 清
   作者: 萬樹
@@ -787,6 +1981,66 @@
     限制: 无
     文字: true
     影印: false
+    简体: false
+  - 標題: Universal Library - 詞律·卷一
+    網址: https://archive.org/details/06070411.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 詞律·卷二~卷三
+    網址: https://archive.org/details/06070412.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 詞律·卷四~卷五
+    網址: https://archive.org/details/06070413.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 詞律·卷六~卷七
+    網址: https://archive.org/details/06070414.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 詞律·卷八~卷九
+    網址: https://archive.org/details/06070415.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 詞律·卷十~卷十一
+    網址: https://archive.org/details/06070416.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 詞律·卷十四~卷十五
+    網址: https://archive.org/details/06070417.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 詞律·卷十六~卷十七
+    網址: https://archive.org/details/06070418.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 詞律·卷十八~卷十九
+    網址: https://archive.org/details/06070419.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 詞律·卷二十
+    網址: https://archive.org/details/06070420.cn
+    限制: 无
+    文字: false
+    影印: true
     简体: false
 南北曲之屬:
 - 題目: 顧曲雜言
@@ -804,7 +2058,49 @@
   朝代: null
   作者: null
   維基: null
-  資料: []
+  資料:
+  - 標題: Universal Library - 御定曲譜·卷首~卷一
+    網址: https://archive.org/details/06070422.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御定曲譜·卷二~卷三
+    網址: https://archive.org/details/06070423.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御定曲譜·卷四~卷五
+    網址: https://archive.org/details/06070424.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御定曲譜·卷六~卷七
+    網址: https://archive.org/details/06070425.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御定曲譜·卷八~卷九
+    網址: https://archive.org/details/06070426.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御定曲譜·卷十~卷十一
+    網址: https://archive.org/details/06070427.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 御定曲譜·卷十二~卷末
+    網址: https://archive.org/details/06070428.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
 - 題目: 中原音韻
   朝代: 元
   作者: 周德清
@@ -815,4 +2111,16 @@
     限制: 无
     文字: true
     影印: false
+    简体: false
+  - 標題: Universal Library - 中原音韻·卷上
+    網址: https://archive.org/details/06070429.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 中原音韻·卷下
+    網址: https://archive.org/details/06070430.cn
+    限制: 无
+    文字: false
+    影印: true
     简体: false

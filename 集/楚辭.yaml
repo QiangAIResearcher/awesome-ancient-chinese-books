@@ -10,6 +10,24 @@ null:
     文字: true
     影印: false
     简体: false
+  - 標題: Universal Library - 楚辭章句·卷一~卷四
+    網址: https://archive.org/details/06050895.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 楚辭章句·卷五~卷十三
+    網址: https://archive.org/details/06050896.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 楚辭章句·卷十四~卷十七
+    網址: https://archive.org/details/06050897.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
 - 題目: 楚詞補注
   朝代: 宋
   作者: 洪興祖
@@ -21,11 +39,59 @@ null:
     文字: true
     影印: false
     简体: false
+  - 標題: Universal Library - 楚詞補注·卷一~卷二
+    網址: https://archive.org/details/06050898.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 楚詞補注·卷三~卷四
+    網址: https://archive.org/details/06050899.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 楚詞補注·卷五~卷十
+    網址: https://archive.org/details/06050900.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 楚詞補注·卷十一~卷十五
+    網址: https://archive.org/details/06050901.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 楚詞補注·卷十六~卷十七
+    網址: https://archive.org/details/06050902.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
 - 題目: 楚辭集注
   朝代: null
   作者: null
   維基: null
-  資料: []
+  資料:
+  - 標題: Universal Library - 楚辭集注·卷一~卷三
+    網址: https://archive.org/details/06050903.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 楚辭集注·卷四~卷七
+    網址: https://archive.org/details/06050904.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 楚辭集注·卷八
+    網址: https://archive.org/details/06050905.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
 - 題目: 離騷草木疏
   朝代: 宋
   作者: 吳仁傑
@@ -48,8 +114,44 @@ null:
     文字: true
     影印: false
     简体: false
+  - 標題: Universal Library - 欽定補繪蕭雲從離騷全圖·卷上
+    網址: https://archive.org/details/06050908.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 欽定補繪蕭雲從離騷全圖·卷中
+    網址: https://archive.org/details/06050909.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 欽定補繪蕭雲從離騷全圖·卷下
+    網址: https://archive.org/details/06050910.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
 - 題目: 山帶閣註楚辭
   朝代: null
   作者: null
   維基: null
-  資料: []
+  資料:
+  - 標題: Universal Library - 山帶閣註楚辭·卷首~卷二
+    網址: https://archive.org/details/06050911.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 山帶閣註楚辭·卷三~卷四
+    網址: https://archive.org/details/06050912.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 山帶閣註楚辭·卷五~卷六
+    網址: https://archive.org/details/06050913.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false

@@ -21,6 +21,30 @@ null:
     文字: true
     影印: false
     简体: false
+  - 標題: Universal Library - 孝經注疏·卷一~卷三
+    網址: https://archive.org/details/06081430.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 孝經注疏·卷四~卷九
+    網址: https://archive.org/details/06081431.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 孝經注疏·卷一~卷二
+    網址: https://archive.org/details/06043585.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 孝經注疏·卷三~卷九
+    網址: https://archive.org/details/06043586.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
 - 題目: 古文孝經指解
   朝代: null
   作者: null
@@ -74,6 +98,18 @@ null:
     限制: 无
     文字: true
     影印: false
+    简体: false
+  - 標題: Universal Library - 孝經集傳·卷一~卷二
+    網址: https://archive.org/details/06043590.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 孝經集傳·卷三~卷四
+    網址: https://archive.org/details/06043591.cn
+    限制: 无
+    文字: false
+    影印: true
     简体: false
 - 題目: 御定孝經注
   朝代: 清

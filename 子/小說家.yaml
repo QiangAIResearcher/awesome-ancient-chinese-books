@@ -21,6 +21,54 @@
     文字: true
     影印: false
     简体: false
+  - 標題: Universal Library - 世說新語·卷上之上
+    網址: https://archive.org/details/06047368.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 世說新語·卷上之下~卷中之上
+    網址: https://archive.org/details/06047369.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 世說新語·卷中之下
+    網址: https://archive.org/details/06047370.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 世說新語·卷下之上
+    網址: https://archive.org/details/06047371.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 世說新語·卷下之下
+    網址: https://archive.org/details/06047372.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 世說新語·卷上之下
+    網址: https://archive.org/details/06073482.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 世說新語·卷中之上
+    網址: https://archive.org/details/06073483.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 世說新語·卷下之上~卷下之下
+    網址: https://archive.org/details/06073485.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
 - 題目: 朝野僉載
   朝代: 唐
   作者: 張鷟
@@ -32,6 +80,18 @@
     文字: true
     影印: false
     简体: false
+  - 標題: Universal Library - 朝野僉載·卷一~卷四
+    網址: https://archive.org/details/06047373.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 朝野僉載·卷五~卷六
+    網址: https://archive.org/details/06047374.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
 - 題目: 唐新語
   朝代: 唐
   作者: 劉肅
@@ -42,6 +102,24 @@
     限制: 无
     文字: true
     影印: false
+    简体: false
+  - 標題: Universal Library - 唐新語·卷一~卷三
+    網址: https://archive.org/details/06047375.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 唐新語·卷四~卷七
+    網址: https://archive.org/details/06047376.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 唐新語·卷八~卷十三
+    網址: https://archive.org/details/06047377.cn
+    限制: 无
+    文字: false
+    影印: true
     简体: false
 - 題目: 次柳氏舊聞
   朝代: 唐
@@ -174,6 +252,36 @@
     文字: true
     影印: false
     简体: false
+  - 標題: Universal Library - 唐摭言·卷一~卷四
+    網址: https://archive.org/details/06047385.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 唐摭言·卷五~卷九
+    網址: https://archive.org/details/06047386.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 唐摭言·卷十~卷十五
+    網址: https://archive.org/details/06047387.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 唐摭言·卷五~卷十
+    網址: https://archive.org/details/06081670.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 唐摭言·卷十一~卷十五
+    網址: https://archive.org/details/06081671.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
 - 題目: 中朝故事
   朝代: null
   作者: null
@@ -228,6 +336,48 @@
     文字: true
     影印: false
     简体: false
+  - 標題: Universal Library - 北夢瑣言·卷一~卷五
+    網址: https://archive.org/details/06047392.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 北夢瑣言·卷六~卷十一
+    網址: https://archive.org/details/06047393.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 北夢瑣言·卷十二~卷二十
+    網址: https://archive.org/details/06047394.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 北夢瑣言·卷一~卷四
+    網址: https://archive.org/details/06073495.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 北夢瑣言·卷五~卷九
+    網址: https://archive.org/details/06073496.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 北夢瑣言·卷十~卷十五
+    網址: https://archive.org/details/06073497.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 北夢瑣言·卷十六~卷二十
+    網址: https://archive.org/details/06073498.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
 - 題目: 賈氏譚錄
   朝代: 宋
   作者: 張洎
@@ -254,6 +404,18 @@
     限制: 无
     文字: true
     影印: false
+    简体: false
+  - 標題: Universal Library - 南部新書·卷一~卷六
+    網址: https://archive.org/details/06048846.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 南部新書·卷七~卷十
+    網址: https://archive.org/details/06048847.cn
+    限制: 无
+    文字: false
+    影印: true
     简体: false
 - 題目: 王文正筆錄
   朝代: 宋
@@ -287,6 +449,30 @@
     限制: 无
     文字: true
     影印: false
+    简体: false
+  - 標題: Universal Library - 涑水記聞·卷一~卷四
+    網址: https://archive.org/details/06048849.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 涑水記聞·卷五~卷八
+    網址: https://archive.org/details/06048850.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 涑水記聞·卷九~卷十二
+    網址: https://archive.org/details/06048851.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 涑水記聞·卷十三~卷十六
+    網址: https://archive.org/details/06048852.cn
+    限制: 无
+    文字: false
+    影印: true
     简体: false
 - 題目: 澠水燕談錄
   朝代: 宋
@@ -521,6 +707,30 @@
     文字: true
     影印: false
     简体: false
+  - 標題: Universal Library - 唐語林·卷一~卷二
+    網址: https://archive.org/details/06048874.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 唐語林·卷三~卷四
+    網址: https://archive.org/details/06048875.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 唐語林·卷五~卷六
+    網址: https://archive.org/details/06048876.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 唐語林·卷七~卷八
+    網址: https://archive.org/details/06048877.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
 - 題目: 楓窗小牘
   朝代: 宋
   作者: 袁□
@@ -618,6 +828,18 @@
     文字: true
     影印: false
     简体: false
+  - 標題: Universal Library - 玉照新志·卷一~卷三
+    網址: https://archive.org/details/06048888.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 玉照新志·卷四~卷六
+    網址: https://archive.org/details/06048889.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
 - 題目: 投轄錄
   朝代: 宋
   作者: 王明清
@@ -651,11 +873,41 @@
     文字: true
     影印: false
     简体: false
+  - 標題: Universal Library - 聞見錄·卷一~卷七
+    網址: https://archive.org/details/06048891.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 聞見錄·卷八~卷十三
+    網址: https://archive.org/details/06048892.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 聞見錄·卷十四~卷二十
+    網址: https://archive.org/details/06048893.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
 - 題目: 清波雜志
   朝代: null
   作者: null
   維基: null
-  資料: []
+  資料:
+  - 標題: Universal Library - 清波雜志·卷一~卷六
+    網址: https://archive.org/details/06048894.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 清波雜志·卷七~卷十二
+    網址: https://archive.org/details/06048895.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
 - 題目: 清波別志
   朝代: null
   作者: null
@@ -672,6 +924,18 @@
     文字: true
     影印: false
     简体: false
+  - 標題: Universal Library - 雞肋編·卷上~卷中
+    網址: https://archive.org/details/06048897.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 雞肋編·卷下
+    網址: https://archive.org/details/06048898.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
 - 題目: 聞見後錄
   朝代: 宋
   作者: 邵博
@@ -682,6 +946,24 @@
     限制: 无
     文字: true
     影印: false
+    简体: false
+  - 標題: Universal Library - 聞見後錄·卷一~卷九
+    網址: https://archive.org/details/06048899.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 聞見後錄·卷十~卷十八
+    網址: https://archive.org/details/06048900.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 聞見後錄·卷十九~卷三十
+    網址: https://archive.org/details/06048901.cn
+    限制: 无
+    文字: false
+    影印: true
     简体: false
 - 題目: 北窗炙輠錄
   朝代: null
@@ -710,11 +992,41 @@
     文字: true
     影印: false
     简体: false
+  - 標題: Universal Library - 桯史·卷一~卷六
+    網址: https://archive.org/details/06048903.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 桯史·卷七~卷十二
+    網址: https://archive.org/details/06048904.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 桯史·卷十三~卷十五
+    網址: https://archive.org/details/06048905.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
 - 題目: 獨醒雜志
   朝代: null
   作者: null
   維基: null
-  資料: []
+  資料:
+  - 標題: Universal Library - 獨醒雜志·卷六~卷十
+    網址: https://archive.org/details/06048907.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 獨醒雜志·卷一~卷五
+    網址: https://archive.org/details/06048906.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
 - 題目: 耆舊續聞
   朝代: 宋
   作者: 陳鵠
@@ -736,6 +1048,24 @@
     限制: 无
     文字: true
     影印: false
+    简体: false
+  - 標題: Universal Library - 四朝聞見錄·卷一
+    網址: https://archive.org/details/06048909.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 四朝聞見錄·卷二~卷三
+    網址: https://archive.org/details/06048910.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 四朝聞見錄·卷四~卷五
+    網址: https://archive.org/details/06048911.cn
+    限制: 无
+    文字: false
+    影印: true
     简体: false
 - 題目: 隨隱漫錄
   朝代: 宋
@@ -769,6 +1099,24 @@
     限制: 无
     文字: true
     影印: false
+    简体: false
+  - 標題: Universal Library - 歸潛志·卷一~卷六
+    網址: https://archive.org/details/06050806.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 歸潛志·卷七~卷九
+    網址: https://archive.org/details/06050807.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 歸潛志·卷十~卷十四
+    網址: https://archive.org/details/06050808.cn
+    限制: 无
+    文字: false
+    影印: true
     简体: false
 - 題目: 山房隨筆
   朝代: 元
@@ -830,6 +1178,42 @@
     文字: true
     影印: false
     简体: false
+  - 標題: Universal Library - 水東日記·卷一~卷六
+    網址: https://archive.org/details/06050819.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 水東日記·卷七~卷十二
+    網址: https://archive.org/details/06050820.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 水東日記·卷十三~卷十八
+    網址: https://archive.org/details/06050821.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 水東日記·卷十九~卷二十四
+    網址: https://archive.org/details/06050822.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 水東日記·卷二十五~卷三十一
+    網址: https://archive.org/details/06050823.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 水東日記·卷三十二~卷三十八
+    網址: https://archive.org/details/06050824.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
 - 題目: 菽園雜記
   朝代: 明
   作者: 陸容
@@ -840,6 +1224,30 @@
     限制: 无
     文字: true
     影印: false
+    简体: false
+  - 標題: Universal Library - 菽園雜記·卷一~卷五
+    網址: https://archive.org/details/06050825.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 菽園雜記·卷六~卷八
+    網址: https://archive.org/details/06050826.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 菽園雜記·卷九~卷十一
+    網址: https://archive.org/details/06050827.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 菽園雜記·卷十二~卷十五
+    網址: https://archive.org/details/06050828.cn
+    限制: 无
+    文字: false
+    影印: true
     简体: false
 - 題目: 先進遺風
   朝代: 明
@@ -874,6 +1282,78 @@
     文字: true
     影印: false
     简体: false
+  - 標題: Universal Library - 語林·卷一~卷三
+    網址: https://archive.org/details/06050830.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 語林·卷四~卷五
+    網址: https://archive.org/details/06050831.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 語林·卷六~卷九
+    網址: https://archive.org/details/06050832.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 語林·卷十~卷十一
+    網址: https://archive.org/details/06050833.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 語林·卷十二~卷十三
+    網址: https://archive.org/details/06050834.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 語林·卷十四~卷十五
+    網址: https://archive.org/details/06050835.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 語林·卷十六~卷十七
+    網址: https://archive.org/details/06050836.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 語林·卷十八~卷十九
+    網址: https://archive.org/details/06050837.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 語林·卷二十~卷二十三
+    網址: https://archive.org/details/06050838.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 語林·卷二十四~卷二十六
+    網址: https://archive.org/details/06050839.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 語林·卷二十七~卷二十八
+    網址: https://archive.org/details/06050840.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 語林·卷二十九~卷三十
+    網址: https://archive.org/details/06050841.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
 異聞之屬:
 - 題目: 山海經
   朝代: 晉
@@ -886,6 +1366,42 @@
     文字: true
     影印: false
     简体: false
+  - 標題: Universal Library - 山海經·卷一~卷五
+    網址: https://archive.org/details/06050842.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 山海經·卷六~卷十八
+    網址: https://archive.org/details/06050843.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 山海經·卷五
+    網址: https://archive.org/details/06078112.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 山海經·卷一~卷四
+    網址: https://archive.org/details/06078592.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 山海經·卷一~卷三
+    網址: https://archive.org/details/06082211.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 山海經·卷四~卷五
+    網址: https://archive.org/details/06082212.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
 - 題目: 山海經廣注
   朝代: 清
   作者: 吳任臣
@@ -896,6 +1412,30 @@
     限制: 无
     文字: true
     影印: false
+    简体: false
+  - 標題: Universal Library - 山海經廣注·卷一~卷二
+    網址: https://archive.org/details/06050844.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 山海經廣注·卷三~卷五
+    網址: https://archive.org/details/06050845.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 山海經廣注·卷六~卷十四
+    網址: https://archive.org/details/06050846.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 山海經廣注·卷十五~卷十八
+    網址: https://archive.org/details/06050847.cn
+    限制: 无
+    文字: false
+    影印: true
     简体: false
 - 題目: 穆天子傳
   朝代: 晉
@@ -968,6 +1508,18 @@
     文字: true
     影印: false
     简体: false
+  - 標題: Universal Library - 拾遺記·卷一~卷五
+    網址: https://archive.org/details/06073478.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 拾遺記·卷六~卷十
+    網址: https://archive.org/details/06073479.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
 - 題目: 搜神記
   朝代: 晉
   作者: 干寶
@@ -978,6 +1530,18 @@
     限制: 无
     文字: true
     影印: false
+    简体: false
+  - 標題: Universal Library - 搜神記·卷一~卷十
+    網址: https://archive.org/details/06050851.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 搜神記·卷十一~卷二十
+    網址: https://archive.org/details/06050852.cn
+    限制: 无
+    文字: false
+    影印: true
     简体: false
 - 題目: 搜神後記
   朝代: 晉
@@ -1088,6 +1652,18 @@
     文字: true
     影印: false
     简体: false
+  - 標題: Universal Library - 宣室志·卷一~卷六
+    網址: https://archive.org/details/06050858.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 宣室志·卷七~卷十
+    網址: https://archive.org/details/06050859.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
 - 題目: 唐闕史
   朝代: 唐
   作者: 高彥休
@@ -1176,6 +1752,36 @@
     文字: true
     影印: false
     简体: false
+  - 標題: Universal Library - 分門古今類事·卷一~卷四
+    網址: https://archive.org/details/06047395.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 分門古今類事·卷五~卷八
+    網址: https://archive.org/details/06047396.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 分門古今類事·卷九~卷十二
+    網址: https://archive.org/details/06047397.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 分門古今類事·卷十三~卷十六
+    網址: https://archive.org/details/06047398.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 分門古今類事·卷十七~卷二十
+    網址: https://archive.org/details/06047399.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
 - 題目: 陶朱新錄
   朝代: 宋
   作者: 馬純
@@ -1230,7 +1836,37 @@
   朝代: null
   作者: null
   維基: null
-  資料: []
+  資料:
+  - 標題: Universal Library - 酉陽雜俎·卷一~卷五
+    網址: https://archive.org/details/06047413.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 酉陽雜俎·卷六~卷十三
+    網址: https://archive.org/details/06047414.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 酉陽雜俎·卷十四~卷二十
+    網址: https://archive.org/details/06047415.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 酉陽雜俎·續·卷一~卷四
+    網址: https://archive.org/details/06047416.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 酉陽雜俎·續·卷五~卷十
+    網址: https://archive.org/details/06047417.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
 - 題目: 清異錄
   朝代: 宋
   作者: 陶穀
@@ -1241,6 +1877,18 @@
     限制: 无
     文字: true
     影印: false
+    简体: false
+  - 標題: Universal Library - 清異錄·卷上
+    網址: https://archive.org/details/06047418.cn
+    限制: 无
+    文字: false
+    影印: true
+    简体: false
+  - 標題: Universal Library - 清異錄·卷下
+    網址: https://archive.org/details/06047419.cn
+    限制: 无
+    文字: false
+    影印: true
     简体: false
 - 題目: 續博物志
   朝代: 宋
